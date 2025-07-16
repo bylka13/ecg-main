@@ -1,0 +1,10444 @@
+{
+  "patient_id": 2,
+  "ecg_id": 3,
+  "nombre_de_battements": 2609,
+  "beatsPrediction": [
+    [
+      "1",
+      "Battement normal"
+    ],
+    [
+      "2",
+      "Battement normal"
+    ],
+    [
+      "3",
+      "Battement normal"
+    ],
+    [
+      "4",
+      "Battement normal"
+    ],
+    [
+      "5",
+      "Battement normal"
+    ],
+    [
+      "6",
+      "Battement normal"
+    ],
+    [
+      "7",
+      "Battement normal"
+    ],
+    [
+      "8",
+      "Battement normal"
+    ],
+    [
+      "9",
+      "Battement normal"
+    ],
+    [
+      "10",
+      "Battement normal"
+    ],
+    [
+      "11",
+      "Battement normal"
+    ],
+    [
+      "12",
+      "Battement normal"
+    ],
+    [
+      "13",
+      "Battement normal"
+    ],
+    [
+      "14",
+      "Battement normal"
+    ],
+    [
+      "15",
+      "Battement normal"
+    ],
+    [
+      "16",
+      "Battement normal"
+    ],
+    [
+      "17",
+      "Battement normal"
+    ],
+    [
+      "18",
+      "Battement normal"
+    ],
+    [
+      "19",
+      "Battement normal"
+    ],
+    [
+      "20",
+      "Battement normal"
+    ],
+    [
+      "21",
+      "Battement normal"
+    ],
+    [
+      "22",
+      "Battement normal"
+    ],
+    [
+      "23",
+      "Battement normal"
+    ],
+    [
+      "24",
+      "Battement normal"
+    ],
+    [
+      "25",
+      "Battement normal"
+    ],
+    [
+      "26",
+      "Battement normal"
+    ],
+    [
+      "27",
+      "Battement normal"
+    ],
+    [
+      "28",
+      "Battement normal"
+    ],
+    [
+      "29",
+      "Battement normal"
+    ],
+    [
+      "30",
+      "Battement normal"
+    ],
+    [
+      "31",
+      "Battement normal"
+    ],
+    [
+      "32",
+      "Battement normal"
+    ],
+    [
+      "33",
+      "Battement normal"
+    ],
+    [
+      "34",
+      "Battement normal"
+    ],
+    [
+      "35",
+      "Battement normal"
+    ],
+    [
+      "36",
+      "Battement normal"
+    ],
+    [
+      "37",
+      "Battement normal"
+    ],
+    [
+      "38",
+      "Battement normal"
+    ],
+    [
+      "39",
+      "Battement normal"
+    ],
+    [
+      "40",
+      "Battement normal"
+    ],
+    [
+      "41",
+      "Battement normal"
+    ],
+    [
+      "42",
+      "Battement normal"
+    ],
+    [
+      "43",
+      "Battement normal"
+    ],
+    [
+      "44",
+      "Battement normal"
+    ],
+    [
+      "45",
+      "Battement normal"
+    ],
+    [
+      "46",
+      "Battement normal"
+    ],
+    [
+      "47",
+      "Battement normal"
+    ],
+    [
+      "48",
+      "Battement normal"
+    ],
+    [
+      "49",
+      "Battement normal"
+    ],
+    [
+      "50",
+      "Battement normal"
+    ],
+    [
+      "51",
+      "Battement normal"
+    ],
+    [
+      "52",
+      "Battement normal"
+    ],
+    [
+      "53",
+      "Battement normal"
+    ],
+    [
+      "54",
+      "Battement normal"
+    ],
+    [
+      "55",
+      "Battement normal"
+    ],
+    [
+      "56",
+      "Battement normal"
+    ],
+    [
+      "57",
+      "Battement normal"
+    ],
+    [
+      "58",
+      "Battement normal"
+    ],
+    [
+      "59",
+      "Battement normal"
+    ],
+    [
+      "60",
+      "Battement normal"
+    ],
+    [
+      "61",
+      "Battement normal"
+    ],
+    [
+      "62",
+      "Battement normal"
+    ],
+    [
+      "63",
+      "Battement normal"
+    ],
+    [
+      "64",
+      "Battement normal"
+    ],
+    [
+      "65",
+      "Battement normal"
+    ],
+    [
+      "66",
+      "Battement normal"
+    ],
+    [
+      "67",
+      "Battement normal"
+    ],
+    [
+      "68",
+      "Battement normal"
+    ],
+    [
+      "69",
+      "Battement normal"
+    ],
+    [
+      "70",
+      "Battement normal"
+    ],
+    [
+      "71",
+      "Battement normal"
+    ],
+    [
+      "72",
+      "Battement normal"
+    ],
+    [
+      "73",
+      "Battement normal"
+    ],
+    [
+      "74",
+      "Battement normal"
+    ],
+    [
+      "75",
+      "Battement normal"
+    ],
+    [
+      "76",
+      "Battement normal"
+    ],
+    [
+      "77",
+      "Battement normal"
+    ],
+    [
+      "78",
+      "Battement normal"
+    ],
+    [
+      "79",
+      "Battement normal"
+    ],
+    [
+      "80",
+      "Battement normal"
+    ],
+    [
+      "81",
+      "Battement normal"
+    ],
+    [
+      "82",
+      "Battement normal"
+    ],
+    [
+      "83",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "84",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "85",
+      "Battement normal"
+    ],
+    [
+      "86",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "87",
+      "Battement normal"
+    ],
+    [
+      "88",
+      "Battement normal"
+    ],
+    [
+      "89",
+      "Battement normal"
+    ],
+    [
+      "90",
+      "Battement normal"
+    ],
+    [
+      "91",
+      "Battement normal"
+    ],
+    [
+      "92",
+      "Battement normal"
+    ],
+    [
+      "93",
+      "Battement normal"
+    ],
+    [
+      "94",
+      "Battement normal"
+    ],
+    [
+      "95",
+      "Battement normal"
+    ],
+    [
+      "96",
+      "Battement normal"
+    ],
+    [
+      "97",
+      "Battement normal"
+    ],
+    [
+      "98",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "99",
+      "Battement normal"
+    ],
+    [
+      "100",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "101",
+      "Battement normal"
+    ],
+    [
+      "102",
+      "Battement normal"
+    ],
+    [
+      "103",
+      "Battement normal"
+    ],
+    [
+      "104",
+      "Battement normal"
+    ],
+    [
+      "105",
+      "Battement normal"
+    ],
+    [
+      "106",
+      "Battement normal"
+    ],
+    [
+      "107",
+      "Battement normal"
+    ],
+    [
+      "108",
+      "Battement normal"
+    ],
+    [
+      "109",
+      "Battement normal"
+    ],
+    [
+      "110",
+      "Battement normal"
+    ],
+    [
+      "111",
+      "Battement normal"
+    ],
+    [
+      "112",
+      "Battement normal"
+    ],
+    [
+      "113",
+      "Battement normal"
+    ],
+    [
+      "114",
+      "Battement normal"
+    ],
+    [
+      "115",
+      "Battement normal"
+    ],
+    [
+      "116",
+      "Battement normal"
+    ],
+    [
+      "117",
+      "Battement normal"
+    ],
+    [
+      "118",
+      "Battement normal"
+    ],
+    [
+      "119",
+      "Battement normal"
+    ],
+    [
+      "120",
+      "Battement normal"
+    ],
+    [
+      "121",
+      "Battement normal"
+    ],
+    [
+      "122",
+      "Battement normal"
+    ],
+    [
+      "123",
+      "Battement normal"
+    ],
+    [
+      "124",
+      "Battement normal"
+    ],
+    [
+      "125",
+      "Battement normal"
+    ],
+    [
+      "126",
+      "Battement normal"
+    ],
+    [
+      "127",
+      "Battement normal"
+    ],
+    [
+      "128",
+      "Battement normal"
+    ],
+    [
+      "129",
+      "Battement normal"
+    ],
+    [
+      "130",
+      "Battement normal"
+    ],
+    [
+      "131",
+      "Battement normal"
+    ],
+    [
+      "132",
+      "Battement normal"
+    ],
+    [
+      "133",
+      "Battement normal"
+    ],
+    [
+      "134",
+      "Battement normal"
+    ],
+    [
+      "135",
+      "Battement normal"
+    ],
+    [
+      "136",
+      "Battement normal"
+    ],
+    [
+      "137",
+      "Battement normal"
+    ],
+    [
+      "138",
+      "Battement normal"
+    ],
+    [
+      "139",
+      "Battement normal"
+    ],
+    [
+      "140",
+      "Battement normal"
+    ],
+    [
+      "141",
+      "Battement normal"
+    ],
+    [
+      "142",
+      "Battement normal"
+    ],
+    [
+      "143",
+      "Battement normal"
+    ],
+    [
+      "144",
+      "Battement normal"
+    ],
+    [
+      "145",
+      "Battement normal"
+    ],
+    [
+      "146",
+      "Battement normal"
+    ],
+    [
+      "147",
+      "Battement normal"
+    ],
+    [
+      "148",
+      "Battement normal"
+    ],
+    [
+      "149",
+      "Battement normal"
+    ],
+    [
+      "150",
+      "Battement normal"
+    ],
+    [
+      "151",
+      "Battement normal"
+    ],
+    [
+      "152",
+      "Battement normal"
+    ],
+    [
+      "153",
+      "Battement normal"
+    ],
+    [
+      "154",
+      "Battement normal"
+    ],
+    [
+      "155",
+      "Battement normal"
+    ],
+    [
+      "156",
+      "Battement normal"
+    ],
+    [
+      "157",
+      "Battement normal"
+    ],
+    [
+      "158",
+      "Battement normal"
+    ],
+    [
+      "159",
+      "Battement normal"
+    ],
+    [
+      "160",
+      "Battement de fusion"
+    ],
+    [
+      "161",
+      "Battement normal"
+    ],
+    [
+      "162",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "163",
+      "Battement normal"
+    ],
+    [
+      "164",
+      "Battement normal"
+    ],
+    [
+      "165",
+      "Battement normal"
+    ],
+    [
+      "166",
+      "Battement normal"
+    ],
+    [
+      "167",
+      "Battement normal"
+    ],
+    [
+      "168",
+      "Battement de fusion"
+    ],
+    [
+      "169",
+      "Battement normal"
+    ],
+    [
+      "170",
+      "Battement normal"
+    ],
+    [
+      "171",
+      "Battement de fusion"
+    ],
+    [
+      "172",
+      "Battement normal"
+    ],
+    [
+      "173",
+      "Battement normal"
+    ],
+    [
+      "174",
+      "Battement de fusion"
+    ],
+    [
+      "175",
+      "Battement normal"
+    ],
+    [
+      "176",
+      "Battement normal"
+    ],
+    [
+      "177",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "178",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "179",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "180",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "181",
+      "Battement normal"
+    ],
+    [
+      "182",
+      "Battement normal"
+    ],
+    [
+      "183",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "184",
+      "Battement normal"
+    ],
+    [
+      "185",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "186",
+      "Battement de fusion"
+    ],
+    [
+      "187",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "188",
+      "Battement normal"
+    ],
+    [
+      "189",
+      "Battement normal"
+    ],
+    [
+      "190",
+      "Battement normal"
+    ],
+    [
+      "191",
+      "Battement normal"
+    ],
+    [
+      "192",
+      "Battement normal"
+    ],
+    [
+      "193",
+      "Battement normal"
+    ],
+    [
+      "194",
+      "Battement normal"
+    ],
+    [
+      "195",
+      "Battement normal"
+    ],
+    [
+      "196",
+      "Battement normal"
+    ],
+    [
+      "197",
+      "Battement normal"
+    ],
+    [
+      "198",
+      "Battement de fusion"
+    ],
+    [
+      "199",
+      "Battement normal"
+    ],
+    [
+      "200",
+      "Battement normal"
+    ],
+    [
+      "201",
+      "Battement normal"
+    ],
+    [
+      "202",
+      "Battement normal"
+    ],
+    [
+      "203",
+      "Battement normal"
+    ],
+    [
+      "204",
+      "Battement normal"
+    ],
+    [
+      "205",
+      "Battement normal"
+    ],
+    [
+      "206",
+      "Battement normal"
+    ],
+    [
+      "207",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "208",
+      "Battement normal"
+    ],
+    [
+      "209",
+      "Battement normal"
+    ],
+    [
+      "210",
+      "Battement normal"
+    ],
+    [
+      "211",
+      "Battement normal"
+    ],
+    [
+      "212",
+      "Battement normal"
+    ],
+    [
+      "213",
+      "Battement normal"
+    ],
+    [
+      "214",
+      "Battement normal"
+    ],
+    [
+      "215",
+      "Battement normal"
+    ],
+    [
+      "216",
+      "Battement normal"
+    ],
+    [
+      "217",
+      "Battement normal"
+    ],
+    [
+      "218",
+      "Battement normal"
+    ],
+    [
+      "219",
+      "Battement normal"
+    ],
+    [
+      "220",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "221",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "222",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "223",
+      "Battement normal"
+    ],
+    [
+      "224",
+      "Battement normal"
+    ],
+    [
+      "225",
+      "Battement normal"
+    ],
+    [
+      "226",
+      "Battement normal"
+    ],
+    [
+      "227",
+      "Battement normal"
+    ],
+    [
+      "228",
+      "Battement normal"
+    ],
+    [
+      "229",
+      "Battement normal"
+    ],
+    [
+      "230",
+      "Battement normal"
+    ],
+    [
+      "231",
+      "Battement normal"
+    ],
+    [
+      "232",
+      "Battement normal"
+    ],
+    [
+      "233",
+      "Battement normal"
+    ],
+    [
+      "234",
+      "Battement normal"
+    ],
+    [
+      "235",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "236",
+      "Battement normal"
+    ],
+    [
+      "237",
+      "Battement normal"
+    ],
+    [
+      "238",
+      "Battement normal"
+    ],
+    [
+      "239",
+      "Battement normal"
+    ],
+    [
+      "240",
+      "Battement normal"
+    ],
+    [
+      "241",
+      "Battement normal"
+    ],
+    [
+      "242",
+      "Battement normal"
+    ],
+    [
+      "243",
+      "Battement normal"
+    ],
+    [
+      "244",
+      "Battement normal"
+    ],
+    [
+      "245",
+      "Battement normal"
+    ],
+    [
+      "246",
+      "Battement normal"
+    ],
+    [
+      "247",
+      "Battement normal"
+    ],
+    [
+      "248",
+      "Battement normal"
+    ],
+    [
+      "249",
+      "Battement normal"
+    ],
+    [
+      "250",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "251",
+      "Battement normal"
+    ],
+    [
+      "252",
+      "Battement normal"
+    ],
+    [
+      "253",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "254",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "255",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "256",
+      "Battement normal"
+    ],
+    [
+      "257",
+      "Battement normal"
+    ],
+    [
+      "258",
+      "Battement normal"
+    ],
+    [
+      "259",
+      "Battement normal"
+    ],
+    [
+      "260",
+      "Battement normal"
+    ],
+    [
+      "261",
+      "Battement normal"
+    ],
+    [
+      "262",
+      "Battement normal"
+    ],
+    [
+      "263",
+      "Battement normal"
+    ],
+    [
+      "264",
+      "Battement normal"
+    ],
+    [
+      "265",
+      "Battement normal"
+    ],
+    [
+      "266",
+      "Battement normal"
+    ],
+    [
+      "267",
+      "Battement normal"
+    ],
+    [
+      "268",
+      "Battement normal"
+    ],
+    [
+      "269",
+      "Battement normal"
+    ],
+    [
+      "270",
+      "Battement normal"
+    ],
+    [
+      "271",
+      "Battement normal"
+    ],
+    [
+      "272",
+      "Battement normal"
+    ],
+    [
+      "273",
+      "Battement normal"
+    ],
+    [
+      "274",
+      "Battement normal"
+    ],
+    [
+      "275",
+      "Battement normal"
+    ],
+    [
+      "276",
+      "Battement normal"
+    ],
+    [
+      "277",
+      "Battement normal"
+    ],
+    [
+      "278",
+      "Battement normal"
+    ],
+    [
+      "279",
+      "Battement normal"
+    ],
+    [
+      "280",
+      "Battement normal"
+    ],
+    [
+      "281",
+      "Battement normal"
+    ],
+    [
+      "282",
+      "Battement normal"
+    ],
+    [
+      "283",
+      "Battement normal"
+    ],
+    [
+      "284",
+      "Battement normal"
+    ],
+    [
+      "285",
+      "Battement normal"
+    ],
+    [
+      "286",
+      "Battement normal"
+    ],
+    [
+      "287",
+      "Battement normal"
+    ],
+    [
+      "288",
+      "Battement normal"
+    ],
+    [
+      "289",
+      "Battement normal"
+    ],
+    [
+      "290",
+      "Battement normal"
+    ],
+    [
+      "291",
+      "Battement normal"
+    ],
+    [
+      "292",
+      "Battement normal"
+    ],
+    [
+      "293",
+      "Battement normal"
+    ],
+    [
+      "294",
+      "Battement normal"
+    ],
+    [
+      "295",
+      "Battement normal"
+    ],
+    [
+      "296",
+      "Battement normal"
+    ],
+    [
+      "297",
+      "Battement normal"
+    ],
+    [
+      "298",
+      "Battement normal"
+    ],
+    [
+      "299",
+      "Battement normal"
+    ],
+    [
+      "300",
+      "Battement normal"
+    ],
+    [
+      "301",
+      "Battement normal"
+    ],
+    [
+      "302",
+      "Battement normal"
+    ],
+    [
+      "303",
+      "Battement normal"
+    ],
+    [
+      "304",
+      "Battement normal"
+    ],
+    [
+      "305",
+      "Battement normal"
+    ],
+    [
+      "306",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "307",
+      "Battement normal"
+    ],
+    [
+      "308",
+      "Battement normal"
+    ],
+    [
+      "309",
+      "Battement normal"
+    ],
+    [
+      "310",
+      "Battement normal"
+    ],
+    [
+      "311",
+      "Battement normal"
+    ],
+    [
+      "312",
+      "Battement normal"
+    ],
+    [
+      "313",
+      "Battement normal"
+    ],
+    [
+      "314",
+      "Battement normal"
+    ],
+    [
+      "315",
+      "Battement normal"
+    ],
+    [
+      "316",
+      "Battement normal"
+    ],
+    [
+      "317",
+      "Battement normal"
+    ],
+    [
+      "318",
+      "Battement normal"
+    ],
+    [
+      "319",
+      "Battement normal"
+    ],
+    [
+      "320",
+      "Battement normal"
+    ],
+    [
+      "321",
+      "Battement normal"
+    ],
+    [
+      "322",
+      "Battement normal"
+    ],
+    [
+      "323",
+      "Battement normal"
+    ],
+    [
+      "324",
+      "Battement normal"
+    ],
+    [
+      "325",
+      "Battement normal"
+    ],
+    [
+      "326",
+      "Battement normal"
+    ],
+    [
+      "327",
+      "Battement normal"
+    ],
+    [
+      "328",
+      "Battement normal"
+    ],
+    [
+      "329",
+      "Battement normal"
+    ],
+    [
+      "330",
+      "Battement normal"
+    ],
+    [
+      "331",
+      "Battement normal"
+    ],
+    [
+      "332",
+      "Battement normal"
+    ],
+    [
+      "333",
+      "Battement normal"
+    ],
+    [
+      "334",
+      "Battement normal"
+    ],
+    [
+      "335",
+      "Battement normal"
+    ],
+    [
+      "336",
+      "Battement normal"
+    ],
+    [
+      "337",
+      "Battement normal"
+    ],
+    [
+      "338",
+      "Battement normal"
+    ],
+    [
+      "339",
+      "Battement normal"
+    ],
+    [
+      "340",
+      "Battement normal"
+    ],
+    [
+      "341",
+      "Battement normal"
+    ],
+    [
+      "342",
+      "Battement normal"
+    ],
+    [
+      "343",
+      "Battement normal"
+    ],
+    [
+      "344",
+      "Battement normal"
+    ],
+    [
+      "345",
+      "Battement normal"
+    ],
+    [
+      "346",
+      "Battement normal"
+    ],
+    [
+      "347",
+      "Battement normal"
+    ],
+    [
+      "348",
+      "Battement normal"
+    ],
+    [
+      "349",
+      "Battement normal"
+    ],
+    [
+      "350",
+      "Battement normal"
+    ],
+    [
+      "351",
+      "Battement normal"
+    ],
+    [
+      "352",
+      "Battement normal"
+    ],
+    [
+      "353",
+      "Battement normal"
+    ],
+    [
+      "354",
+      "Battement normal"
+    ],
+    [
+      "355",
+      "Battement normal"
+    ],
+    [
+      "356",
+      "Battement normal"
+    ],
+    [
+      "357",
+      "Battement normal"
+    ],
+    [
+      "358",
+      "Battement normal"
+    ],
+    [
+      "359",
+      "Battement normal"
+    ],
+    [
+      "360",
+      "Battement normal"
+    ],
+    [
+      "361",
+      "Battement normal"
+    ],
+    [
+      "362",
+      "Battement normal"
+    ],
+    [
+      "363",
+      "Battement normal"
+    ],
+    [
+      "364",
+      "Battement normal"
+    ],
+    [
+      "365",
+      "Battement normal"
+    ],
+    [
+      "366",
+      "Battement normal"
+    ],
+    [
+      "367",
+      "Battement normal"
+    ],
+    [
+      "368",
+      "Battement normal"
+    ],
+    [
+      "369",
+      "Battement normal"
+    ],
+    [
+      "370",
+      "Battement normal"
+    ],
+    [
+      "371",
+      "Battement normal"
+    ],
+    [
+      "372",
+      "Battement normal"
+    ],
+    [
+      "373",
+      "Battement normal"
+    ],
+    [
+      "374",
+      "Battement normal"
+    ],
+    [
+      "375",
+      "Battement normal"
+    ],
+    [
+      "376",
+      "Battement normal"
+    ],
+    [
+      "377",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "378",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "379",
+      "Battement normal"
+    ],
+    [
+      "380",
+      "Battement normal"
+    ],
+    [
+      "381",
+      "Battement normal"
+    ],
+    [
+      "382",
+      "Battement normal"
+    ],
+    [
+      "383",
+      "Battement normal"
+    ],
+    [
+      "384",
+      "Battement normal"
+    ],
+    [
+      "385",
+      "Battement normal"
+    ],
+    [
+      "386",
+      "Battement normal"
+    ],
+    [
+      "387",
+      "Battement normal"
+    ],
+    [
+      "388",
+      "Battement normal"
+    ],
+    [
+      "389",
+      "Battement normal"
+    ],
+    [
+      "390",
+      "Battement normal"
+    ],
+    [
+      "391",
+      "Battement normal"
+    ],
+    [
+      "392",
+      "Battement normal"
+    ],
+    [
+      "393",
+      "Battement normal"
+    ],
+    [
+      "394",
+      "Battement normal"
+    ],
+    [
+      "395",
+      "Battement normal"
+    ],
+    [
+      "396",
+      "Battement normal"
+    ],
+    [
+      "397",
+      "Battement normal"
+    ],
+    [
+      "398",
+      "Battement normal"
+    ],
+    [
+      "399",
+      "Battement normal"
+    ],
+    [
+      "400",
+      "Battement normal"
+    ],
+    [
+      "401",
+      "Battement normal"
+    ],
+    [
+      "402",
+      "Battement normal"
+    ],
+    [
+      "403",
+      "Battement normal"
+    ],
+    [
+      "404",
+      "Battement normal"
+    ],
+    [
+      "405",
+      "Battement normal"
+    ],
+    [
+      "406",
+      "Battement normal"
+    ],
+    [
+      "407",
+      "Battement normal"
+    ],
+    [
+      "408",
+      "Battement normal"
+    ],
+    [
+      "409",
+      "Battement normal"
+    ],
+    [
+      "410",
+      "Battement normal"
+    ],
+    [
+      "411",
+      "Battement normal"
+    ],
+    [
+      "412",
+      "Battement normal"
+    ],
+    [
+      "413",
+      "Battement normal"
+    ],
+    [
+      "414",
+      "Battement normal"
+    ],
+    [
+      "415",
+      "Battement normal"
+    ],
+    [
+      "416",
+      "Battement normal"
+    ],
+    [
+      "417",
+      "Battement normal"
+    ],
+    [
+      "418",
+      "Battement normal"
+    ],
+    [
+      "419",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "420",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "421",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "422",
+      "Battement normal"
+    ],
+    [
+      "423",
+      "Battement normal"
+    ],
+    [
+      "424",
+      "Battement normal"
+    ],
+    [
+      "425",
+      "Battement normal"
+    ],
+    [
+      "426",
+      "Battement normal"
+    ],
+    [
+      "427",
+      "Battement normal"
+    ],
+    [
+      "428",
+      "Battement normal"
+    ],
+    [
+      "429",
+      "Battement normal"
+    ],
+    [
+      "430",
+      "Battement normal"
+    ],
+    [
+      "431",
+      "Battement normal"
+    ],
+    [
+      "432",
+      "Battement normal"
+    ],
+    [
+      "433",
+      "Battement normal"
+    ],
+    [
+      "434",
+      "Battement normal"
+    ],
+    [
+      "435",
+      "Battement normal"
+    ],
+    [
+      "436",
+      "Battement normal"
+    ],
+    [
+      "437",
+      "Battement normal"
+    ],
+    [
+      "438",
+      "Battement normal"
+    ],
+    [
+      "439",
+      "Battement normal"
+    ],
+    [
+      "440",
+      "Battement normal"
+    ],
+    [
+      "441",
+      "Battement normal"
+    ],
+    [
+      "442",
+      "Battement normal"
+    ],
+    [
+      "443",
+      "Battement normal"
+    ],
+    [
+      "444",
+      "Battement normal"
+    ],
+    [
+      "445",
+      "Battement normal"
+    ],
+    [
+      "446",
+      "Battement normal"
+    ],
+    [
+      "447",
+      "Battement normal"
+    ],
+    [
+      "448",
+      "Battement normal"
+    ],
+    [
+      "449",
+      "Battement normal"
+    ],
+    [
+      "450",
+      "Battement normal"
+    ],
+    [
+      "451",
+      "Battement normal"
+    ],
+    [
+      "452",
+      "Battement normal"
+    ],
+    [
+      "453",
+      "Battement normal"
+    ],
+    [
+      "454",
+      "Battement normal"
+    ],
+    [
+      "455",
+      "Battement normal"
+    ],
+    [
+      "456",
+      "Battement normal"
+    ],
+    [
+      "457",
+      "Battement normal"
+    ],
+    [
+      "458",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "459",
+      "Battement normal"
+    ],
+    [
+      "460",
+      "Battement normal"
+    ],
+    [
+      "461",
+      "Battement normal"
+    ],
+    [
+      "462",
+      "Battement normal"
+    ],
+    [
+      "463",
+      "Battement normal"
+    ],
+    [
+      "464",
+      "Battement normal"
+    ],
+    [
+      "465",
+      "Battement normal"
+    ],
+    [
+      "466",
+      "Battement normal"
+    ],
+    [
+      "467",
+      "Battement normal"
+    ],
+    [
+      "468",
+      "Battement normal"
+    ],
+    [
+      "469",
+      "Battement normal"
+    ],
+    [
+      "470",
+      "Battement normal"
+    ],
+    [
+      "471",
+      "Battement normal"
+    ],
+    [
+      "472",
+      "Battement normal"
+    ],
+    [
+      "473",
+      "Battement normal"
+    ],
+    [
+      "474",
+      "Battement normal"
+    ],
+    [
+      "475",
+      "Battement normal"
+    ],
+    [
+      "476",
+      "Battement normal"
+    ],
+    [
+      "477",
+      "Battement normal"
+    ],
+    [
+      "478",
+      "Battement normal"
+    ],
+    [
+      "479",
+      "Battement normal"
+    ],
+    [
+      "480",
+      "Battement normal"
+    ],
+    [
+      "481",
+      "Battement normal"
+    ],
+    [
+      "482",
+      "Battement normal"
+    ],
+    [
+      "483",
+      "Battement normal"
+    ],
+    [
+      "484",
+      "Battement normal"
+    ],
+    [
+      "485",
+      "Battement normal"
+    ],
+    [
+      "486",
+      "Battement normal"
+    ],
+    [
+      "487",
+      "Battement normal"
+    ],
+    [
+      "488",
+      "Battement normal"
+    ],
+    [
+      "489",
+      "Battement normal"
+    ],
+    [
+      "490",
+      "Battement normal"
+    ],
+    [
+      "491",
+      "Battement normal"
+    ],
+    [
+      "492",
+      "Battement normal"
+    ],
+    [
+      "493",
+      "Battement normal"
+    ],
+    [
+      "494",
+      "Battement normal"
+    ],
+    [
+      "495",
+      "Battement normal"
+    ],
+    [
+      "496",
+      "Battement normal"
+    ],
+    [
+      "497",
+      "Battement normal"
+    ],
+    [
+      "498",
+      "Battement normal"
+    ],
+    [
+      "499",
+      "Battement normal"
+    ],
+    [
+      "500",
+      "Battement normal"
+    ],
+    [
+      "501",
+      "Battement normal"
+    ],
+    [
+      "502",
+      "Battement normal"
+    ],
+    [
+      "503",
+      "Battement normal"
+    ],
+    [
+      "504",
+      "Battement normal"
+    ],
+    [
+      "505",
+      "Battement normal"
+    ],
+    [
+      "506",
+      "Battement normal"
+    ],
+    [
+      "507",
+      "Battement normal"
+    ],
+    [
+      "508",
+      "Battement normal"
+    ],
+    [
+      "509",
+      "Battement normal"
+    ],
+    [
+      "510",
+      "Battement normal"
+    ],
+    [
+      "511",
+      "Battement normal"
+    ],
+    [
+      "512",
+      "Battement normal"
+    ],
+    [
+      "513",
+      "Battement normal"
+    ],
+    [
+      "514",
+      "Battement normal"
+    ],
+    [
+      "515",
+      "Battement normal"
+    ],
+    [
+      "516",
+      "Battement normal"
+    ],
+    [
+      "517",
+      "Battement normal"
+    ],
+    [
+      "518",
+      "Battement normal"
+    ],
+    [
+      "519",
+      "Battement normal"
+    ],
+    [
+      "520",
+      "Battement normal"
+    ],
+    [
+      "521",
+      "Battement normal"
+    ],
+    [
+      "522",
+      "Battement normal"
+    ],
+    [
+      "523",
+      "Battement normal"
+    ],
+    [
+      "524",
+      "Battement normal"
+    ],
+    [
+      "525",
+      "Battement normal"
+    ],
+    [
+      "526",
+      "Battement normal"
+    ],
+    [
+      "527",
+      "Battement normal"
+    ],
+    [
+      "528",
+      "Battement normal"
+    ],
+    [
+      "529",
+      "Battement normal"
+    ],
+    [
+      "530",
+      "Battement normal"
+    ],
+    [
+      "531",
+      "Battement normal"
+    ],
+    [
+      "532",
+      "Battement normal"
+    ],
+    [
+      "533",
+      "Battement normal"
+    ],
+    [
+      "534",
+      "Battement normal"
+    ],
+    [
+      "535",
+      "Battement normal"
+    ],
+    [
+      "536",
+      "Battement normal"
+    ],
+    [
+      "537",
+      "Battement normal"
+    ],
+    [
+      "538",
+      "Battement normal"
+    ],
+    [
+      "539",
+      "Battement normal"
+    ],
+    [
+      "540",
+      "Battement normal"
+    ],
+    [
+      "541",
+      "Battement normal"
+    ],
+    [
+      "542",
+      "Battement normal"
+    ],
+    [
+      "543",
+      "Battement normal"
+    ],
+    [
+      "544",
+      "Battement normal"
+    ],
+    [
+      "545",
+      "Battement normal"
+    ],
+    [
+      "546",
+      "Battement normal"
+    ],
+    [
+      "547",
+      "Battement normal"
+    ],
+    [
+      "548",
+      "Battement normal"
+    ],
+    [
+      "549",
+      "Battement normal"
+    ],
+    [
+      "550",
+      "Battement normal"
+    ],
+    [
+      "551",
+      "Battement normal"
+    ],
+    [
+      "552",
+      "Battement normal"
+    ],
+    [
+      "553",
+      "Battement normal"
+    ],
+    [
+      "554",
+      "Battement normal"
+    ],
+    [
+      "555",
+      "Battement normal"
+    ],
+    [
+      "556",
+      "Battement normal"
+    ],
+    [
+      "557",
+      "Battement normal"
+    ],
+    [
+      "558",
+      "Battement normal"
+    ],
+    [
+      "559",
+      "Battement normal"
+    ],
+    [
+      "560",
+      "Battement normal"
+    ],
+    [
+      "561",
+      "Battement normal"
+    ],
+    [
+      "562",
+      "Battement normal"
+    ],
+    [
+      "563",
+      "Battement normal"
+    ],
+    [
+      "564",
+      "Battement normal"
+    ],
+    [
+      "565",
+      "Battement normal"
+    ],
+    [
+      "566",
+      "Battement normal"
+    ],
+    [
+      "567",
+      "Battement normal"
+    ],
+    [
+      "568",
+      "Battement normal"
+    ],
+    [
+      "569",
+      "Battement normal"
+    ],
+    [
+      "570",
+      "Battement normal"
+    ],
+    [
+      "571",
+      "Battement normal"
+    ],
+    [
+      "572",
+      "Battement normal"
+    ],
+    [
+      "573",
+      "Battement normal"
+    ],
+    [
+      "574",
+      "Battement normal"
+    ],
+    [
+      "575",
+      "Battement normal"
+    ],
+    [
+      "576",
+      "Battement normal"
+    ],
+    [
+      "577",
+      "Battement normal"
+    ],
+    [
+      "578",
+      "Battement normal"
+    ],
+    [
+      "579",
+      "Battement normal"
+    ],
+    [
+      "580",
+      "Battement normal"
+    ],
+    [
+      "581",
+      "Battement normal"
+    ],
+    [
+      "582",
+      "Battement normal"
+    ],
+    [
+      "583",
+      "Battement normal"
+    ],
+    [
+      "584",
+      "Battement normal"
+    ],
+    [
+      "585",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "586",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "587",
+      "Battement normal"
+    ],
+    [
+      "588",
+      "Battement normal"
+    ],
+    [
+      "589",
+      "Battement normal"
+    ],
+    [
+      "590",
+      "Battement normal"
+    ],
+    [
+      "591",
+      "Battement normal"
+    ],
+    [
+      "592",
+      "Battement normal"
+    ],
+    [
+      "593",
+      "Battement normal"
+    ],
+    [
+      "594",
+      "Battement normal"
+    ],
+    [
+      "595",
+      "Battement normal"
+    ],
+    [
+      "596",
+      "Battement normal"
+    ],
+    [
+      "597",
+      "Battement normal"
+    ],
+    [
+      "598",
+      "Battement normal"
+    ],
+    [
+      "599",
+      "Battement normal"
+    ],
+    [
+      "600",
+      "Battement normal"
+    ],
+    [
+      "601",
+      "Battement normal"
+    ],
+    [
+      "602",
+      "Battement normal"
+    ],
+    [
+      "603",
+      "Battement normal"
+    ],
+    [
+      "604",
+      "Battement normal"
+    ],
+    [
+      "605",
+      "Battement normal"
+    ],
+    [
+      "606",
+      "Battement normal"
+    ],
+    [
+      "607",
+      "Battement normal"
+    ],
+    [
+      "608",
+      "Battement normal"
+    ],
+    [
+      "609",
+      "Battement normal"
+    ],
+    [
+      "610",
+      "Battement normal"
+    ],
+    [
+      "611",
+      "Battement normal"
+    ],
+    [
+      "612",
+      "Battement normal"
+    ],
+    [
+      "613",
+      "Battement normal"
+    ],
+    [
+      "614",
+      "Battement normal"
+    ],
+    [
+      "615",
+      "Battement normal"
+    ],
+    [
+      "616",
+      "Battement normal"
+    ],
+    [
+      "617",
+      "Battement normal"
+    ],
+    [
+      "618",
+      "Battement normal"
+    ],
+    [
+      "619",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "620",
+      "Battement normal"
+    ],
+    [
+      "621",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "622",
+      "Battement normal"
+    ],
+    [
+      "623",
+      "Battement normal"
+    ],
+    [
+      "624",
+      "Battement normal"
+    ],
+    [
+      "625",
+      "Battement normal"
+    ],
+    [
+      "626",
+      "Battement normal"
+    ],
+    [
+      "627",
+      "Battement normal"
+    ],
+    [
+      "628",
+      "Battement normal"
+    ],
+    [
+      "629",
+      "Battement normal"
+    ],
+    [
+      "630",
+      "Battement normal"
+    ],
+    [
+      "631",
+      "Battement normal"
+    ],
+    [
+      "632",
+      "Battement normal"
+    ],
+    [
+      "633",
+      "Battement normal"
+    ],
+    [
+      "634",
+      "Battement normal"
+    ],
+    [
+      "635",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "636",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "637",
+      "Battement normal"
+    ],
+    [
+      "638",
+      "Battement normal"
+    ],
+    [
+      "639",
+      "Battement normal"
+    ],
+    [
+      "640",
+      "Battement normal"
+    ],
+    [
+      "641",
+      "Battement normal"
+    ],
+    [
+      "642",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "643",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "644",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "645",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "646",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "647",
+      "Battement normal"
+    ],
+    [
+      "648",
+      "Battement normal"
+    ],
+    [
+      "649",
+      "Battement normal"
+    ],
+    [
+      "650",
+      "Battement normal"
+    ],
+    [
+      "651",
+      "Battement normal"
+    ],
+    [
+      "652",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "653",
+      "Battement normal"
+    ],
+    [
+      "654",
+      "Battement normal"
+    ],
+    [
+      "655",
+      "Battement normal"
+    ],
+    [
+      "656",
+      "Battement normal"
+    ],
+    [
+      "657",
+      "Battement normal"
+    ],
+    [
+      "658",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "659",
+      "Battement normal"
+    ],
+    [
+      "660",
+      "Battement normal"
+    ],
+    [
+      "661",
+      "Battement normal"
+    ],
+    [
+      "662",
+      "Battement normal"
+    ],
+    [
+      "663",
+      "Battement normal"
+    ],
+    [
+      "664",
+      "Battement normal"
+    ],
+    [
+      "665",
+      "Battement normal"
+    ],
+    [
+      "666",
+      "Battement normal"
+    ],
+    [
+      "667",
+      "Battement normal"
+    ],
+    [
+      "668",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "669",
+      "Battement normal"
+    ],
+    [
+      "670",
+      "Battement normal"
+    ],
+    [
+      "671",
+      "Battement normal"
+    ],
+    [
+      "672",
+      "Battement normal"
+    ],
+    [
+      "673",
+      "Battement normal"
+    ],
+    [
+      "674",
+      "Battement normal"
+    ],
+    [
+      "675",
+      "Battement normal"
+    ],
+    [
+      "676",
+      "Battement normal"
+    ],
+    [
+      "677",
+      "Battement normal"
+    ],
+    [
+      "678",
+      "Battement normal"
+    ],
+    [
+      "679",
+      "Battement normal"
+    ],
+    [
+      "680",
+      "Battement normal"
+    ],
+    [
+      "681",
+      "Battement normal"
+    ],
+    [
+      "682",
+      "Battement normal"
+    ],
+    [
+      "683",
+      "Battement normal"
+    ],
+    [
+      "684",
+      "Battement normal"
+    ],
+    [
+      "685",
+      "Battement normal"
+    ],
+    [
+      "686",
+      "Battement normal"
+    ],
+    [
+      "687",
+      "Battement normal"
+    ],
+    [
+      "688",
+      "Battement normal"
+    ],
+    [
+      "689",
+      "Battement normal"
+    ],
+    [
+      "690",
+      "Battement normal"
+    ],
+    [
+      "691",
+      "Battement normal"
+    ],
+    [
+      "692",
+      "Battement normal"
+    ],
+    [
+      "693",
+      "Battement normal"
+    ],
+    [
+      "694",
+      "Battement normal"
+    ],
+    [
+      "695",
+      "Battement normal"
+    ],
+    [
+      "696",
+      "Battement normal"
+    ],
+    [
+      "697",
+      "Battement normal"
+    ],
+    [
+      "698",
+      "Battement normal"
+    ],
+    [
+      "699",
+      "Battement normal"
+    ],
+    [
+      "700",
+      "Battement normal"
+    ],
+    [
+      "701",
+      "Battement normal"
+    ],
+    [
+      "702",
+      "Battement normal"
+    ],
+    [
+      "703",
+      "Battement normal"
+    ],
+    [
+      "704",
+      "Battement normal"
+    ],
+    [
+      "705",
+      "Battement normal"
+    ],
+    [
+      "706",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "707",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "708",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "709",
+      "Battement normal"
+    ],
+    [
+      "710",
+      "Battement normal"
+    ],
+    [
+      "711",
+      "Battement normal"
+    ],
+    [
+      "712",
+      "Battement normal"
+    ],
+    [
+      "713",
+      "Battement normal"
+    ],
+    [
+      "714",
+      "Battement normal"
+    ],
+    [
+      "715",
+      "Battement normal"
+    ],
+    [
+      "716",
+      "Battement normal"
+    ],
+    [
+      "717",
+      "Battement normal"
+    ],
+    [
+      "718",
+      "Battement normal"
+    ],
+    [
+      "719",
+      "Battement normal"
+    ],
+    [
+      "720",
+      "Battement normal"
+    ],
+    [
+      "721",
+      "Battement normal"
+    ],
+    [
+      "722",
+      "Battement normal"
+    ],
+    [
+      "723",
+      "Battement normal"
+    ],
+    [
+      "724",
+      "Battement normal"
+    ],
+    [
+      "725",
+      "Battement normal"
+    ],
+    [
+      "726",
+      "Battement normal"
+    ],
+    [
+      "727",
+      "Battement normal"
+    ],
+    [
+      "728",
+      "Battement normal"
+    ],
+    [
+      "729",
+      "Battement normal"
+    ],
+    [
+      "730",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "731",
+      "Battement normal"
+    ],
+    [
+      "732",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "733",
+      "Battement normal"
+    ],
+    [
+      "734",
+      "Battement normal"
+    ],
+    [
+      "735",
+      "Battement normal"
+    ],
+    [
+      "736",
+      "Battement normal"
+    ],
+    [
+      "737",
+      "Battement normal"
+    ],
+    [
+      "738",
+      "Battement normal"
+    ],
+    [
+      "739",
+      "Battement normal"
+    ],
+    [
+      "740",
+      "Battement normal"
+    ],
+    [
+      "741",
+      "Battement normal"
+    ],
+    [
+      "742",
+      "Battement normal"
+    ],
+    [
+      "743",
+      "Battement normal"
+    ],
+    [
+      "744",
+      "Battement normal"
+    ],
+    [
+      "745",
+      "Battement normal"
+    ],
+    [
+      "746",
+      "Battement normal"
+    ],
+    [
+      "747",
+      "Battement normal"
+    ],
+    [
+      "748",
+      "Battement normal"
+    ],
+    [
+      "749",
+      "Battement normal"
+    ],
+    [
+      "750",
+      "Battement normal"
+    ],
+    [
+      "751",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "752",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "753",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "754",
+      "Battement normal"
+    ],
+    [
+      "755",
+      "Battement normal"
+    ],
+    [
+      "756",
+      "Battement normal"
+    ],
+    [
+      "757",
+      "Battement normal"
+    ],
+    [
+      "758",
+      "Battement normal"
+    ],
+    [
+      "759",
+      "Battement normal"
+    ],
+    [
+      "760",
+      "Battement normal"
+    ],
+    [
+      "761",
+      "Battement normal"
+    ],
+    [
+      "762",
+      "Battement normal"
+    ],
+    [
+      "763",
+      "Battement normal"
+    ],
+    [
+      "764",
+      "Battement normal"
+    ],
+    [
+      "765",
+      "Battement normal"
+    ],
+    [
+      "766",
+      "Battement normal"
+    ],
+    [
+      "767",
+      "Battement normal"
+    ],
+    [
+      "768",
+      "Battement normal"
+    ],
+    [
+      "769",
+      "Battement normal"
+    ],
+    [
+      "770",
+      "Battement normal"
+    ],
+    [
+      "771",
+      "Battement normal"
+    ],
+    [
+      "772",
+      "Battement normal"
+    ],
+    [
+      "773",
+      "Battement normal"
+    ],
+    [
+      "774",
+      "Battement normal"
+    ],
+    [
+      "775",
+      "Battement normal"
+    ],
+    [
+      "776",
+      "Battement normal"
+    ],
+    [
+      "777",
+      "Battement normal"
+    ],
+    [
+      "778",
+      "Battement normal"
+    ],
+    [
+      "779",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "780",
+      "Battement normal"
+    ],
+    [
+      "781",
+      "Battement normal"
+    ],
+    [
+      "782",
+      "Battement normal"
+    ],
+    [
+      "783",
+      "Battement normal"
+    ],
+    [
+      "784",
+      "Battement normal"
+    ],
+    [
+      "785",
+      "Battement normal"
+    ],
+    [
+      "786",
+      "Battement normal"
+    ],
+    [
+      "787",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "788",
+      "Battement normal"
+    ],
+    [
+      "789",
+      "Battement normal"
+    ],
+    [
+      "790",
+      "Battement normal"
+    ],
+    [
+      "791",
+      "Battement normal"
+    ],
+    [
+      "792",
+      "Battement normal"
+    ],
+    [
+      "793",
+      "Battement normal"
+    ],
+    [
+      "794",
+      "Battement normal"
+    ],
+    [
+      "795",
+      "Battement normal"
+    ],
+    [
+      "796",
+      "Battement normal"
+    ],
+    [
+      "797",
+      "Battement normal"
+    ],
+    [
+      "798",
+      "Battement normal"
+    ],
+    [
+      "799",
+      "Battement normal"
+    ],
+    [
+      "800",
+      "Battement normal"
+    ],
+    [
+      "801",
+      "Battement normal"
+    ],
+    [
+      "802",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "803",
+      "Battement normal"
+    ],
+    [
+      "804",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "805",
+      "Battement normal"
+    ],
+    [
+      "806",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "807",
+      "Battement normal"
+    ],
+    [
+      "808",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "809",
+      "Battement normal"
+    ],
+    [
+      "810",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "811",
+      "Battement normal"
+    ],
+    [
+      "812",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "813",
+      "Battement normal"
+    ],
+    [
+      "814",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "815",
+      "Battement normal"
+    ],
+    [
+      "816",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "817",
+      "Battement normal"
+    ],
+    [
+      "818",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "819",
+      "Battement normal"
+    ],
+    [
+      "820",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "821",
+      "Battement normal"
+    ],
+    [
+      "822",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "823",
+      "Battement normal"
+    ],
+    [
+      "824",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "825",
+      "Battement normal"
+    ],
+    [
+      "826",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "827",
+      "Battement normal"
+    ],
+    [
+      "828",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "829",
+      "Battement normal"
+    ],
+    [
+      "830",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "831",
+      "Battement normal"
+    ],
+    [
+      "832",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "833",
+      "Battement normal"
+    ],
+    [
+      "834",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "835",
+      "Battement normal"
+    ],
+    [
+      "836",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "837",
+      "Battement normal"
+    ],
+    [
+      "838",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "839",
+      "Battement normal"
+    ],
+    [
+      "840",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "841",
+      "Battement normal"
+    ],
+    [
+      "842",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "843",
+      "Battement normal"
+    ],
+    [
+      "844",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "845",
+      "Battement normal"
+    ],
+    [
+      "846",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "847",
+      "Battement normal"
+    ],
+    [
+      "848",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "849",
+      "Battement normal"
+    ],
+    [
+      "850",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "851",
+      "Battement normal"
+    ],
+    [
+      "852",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "853",
+      "Battement normal"
+    ],
+    [
+      "854",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "855",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "856",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "857",
+      "Battement normal"
+    ],
+    [
+      "858",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "859",
+      "Battement normal"
+    ],
+    [
+      "860",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "861",
+      "Battement normal"
+    ],
+    [
+      "862",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "863",
+      "Battement normal"
+    ],
+    [
+      "864",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "865",
+      "Battement normal"
+    ],
+    [
+      "866",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "867",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "868",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "869",
+      "Battement normal"
+    ],
+    [
+      "870",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "871",
+      "Battement normal"
+    ],
+    [
+      "872",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "873",
+      "Battement normal"
+    ],
+    [
+      "874",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "875",
+      "Battement normal"
+    ],
+    [
+      "876",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "877",
+      "Battement normal"
+    ],
+    [
+      "878",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "879",
+      "Battement normal"
+    ],
+    [
+      "880",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "881",
+      "Battement de fusion"
+    ],
+    [
+      "882",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "883",
+      "Battement normal"
+    ],
+    [
+      "884",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "885",
+      "Battement normal"
+    ],
+    [
+      "886",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "887",
+      "Battement normal"
+    ],
+    [
+      "888",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "889",
+      "Battement normal"
+    ],
+    [
+      "890",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "891",
+      "Battement normal"
+    ],
+    [
+      "892",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "893",
+      "Battement normal"
+    ],
+    [
+      "894",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "895",
+      "Battement normal"
+    ],
+    [
+      "896",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "897",
+      "Battement normal"
+    ],
+    [
+      "898",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "899",
+      "Battement normal"
+    ],
+    [
+      "900",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "901",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "902",
+      "Battement normal"
+    ],
+    [
+      "903",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "904",
+      "Battement normal"
+    ],
+    [
+      "905",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "906",
+      "Battement normal"
+    ],
+    [
+      "907",
+      "Battement normal"
+    ],
+    [
+      "908",
+      "Battement normal"
+    ],
+    [
+      "909",
+      "Battement normal"
+    ],
+    [
+      "910",
+      "Battement normal"
+    ],
+    [
+      "911",
+      "Battement normal"
+    ],
+    [
+      "912",
+      "Battement normal"
+    ],
+    [
+      "913",
+      "Battement normal"
+    ],
+    [
+      "914",
+      "Battement normal"
+    ],
+    [
+      "915",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "916",
+      "Battement normal"
+    ],
+    [
+      "917",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "918",
+      "Battement normal"
+    ],
+    [
+      "919",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "920",
+      "Battement normal"
+    ],
+    [
+      "921",
+      "Battement normal"
+    ],
+    [
+      "922",
+      "Battement normal"
+    ],
+    [
+      "923",
+      "Battement normal"
+    ],
+    [
+      "924",
+      "Battement normal"
+    ],
+    [
+      "925",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "926",
+      "Battement normal"
+    ],
+    [
+      "927",
+      "Battement normal"
+    ],
+    [
+      "928",
+      "Battement normal"
+    ],
+    [
+      "929",
+      "Battement normal"
+    ],
+    [
+      "930",
+      "Battement normal"
+    ],
+    [
+      "931",
+      "Battement normal"
+    ],
+    [
+      "932",
+      "Battement normal"
+    ],
+    [
+      "933",
+      "Battement normal"
+    ],
+    [
+      "934",
+      "Battement normal"
+    ],
+    [
+      "935",
+      "Battement normal"
+    ],
+    [
+      "936",
+      "Battement normal"
+    ],
+    [
+      "937",
+      "Battement normal"
+    ],
+    [
+      "938",
+      "Battement normal"
+    ],
+    [
+      "939",
+      "Battement normal"
+    ],
+    [
+      "940",
+      "Battement normal"
+    ],
+    [
+      "941",
+      "Battement normal"
+    ],
+    [
+      "942",
+      "Battement normal"
+    ],
+    [
+      "943",
+      "Battement normal"
+    ],
+    [
+      "944",
+      "Battement de fusion"
+    ],
+    [
+      "945",
+      "Battement normal"
+    ],
+    [
+      "946",
+      "Battement normal"
+    ],
+    [
+      "947",
+      "Battement normal"
+    ],
+    [
+      "948",
+      "Battement normal"
+    ],
+    [
+      "949",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "950",
+      "Battement normal"
+    ],
+    [
+      "951",
+      "Battement normal"
+    ],
+    [
+      "952",
+      "Battement normal"
+    ],
+    [
+      "953",
+      "Battement normal"
+    ],
+    [
+      "954",
+      "Battement normal"
+    ],
+    [
+      "955",
+      "Battement normal"
+    ],
+    [
+      "956",
+      "Battement normal"
+    ],
+    [
+      "957",
+      "Battement normal"
+    ],
+    [
+      "958",
+      "Battement normal"
+    ],
+    [
+      "959",
+      "Battement normal"
+    ],
+    [
+      "960",
+      "Battement normal"
+    ],
+    [
+      "961",
+      "Battement normal"
+    ],
+    [
+      "962",
+      "Battement normal"
+    ],
+    [
+      "963",
+      "Battement normal"
+    ],
+    [
+      "964",
+      "Battement normal"
+    ],
+    [
+      "965",
+      "Battement normal"
+    ],
+    [
+      "966",
+      "Battement normal"
+    ],
+    [
+      "967",
+      "Battement normal"
+    ],
+    [
+      "968",
+      "Battement normal"
+    ],
+    [
+      "969",
+      "Battement normal"
+    ],
+    [
+      "970",
+      "Battement normal"
+    ],
+    [
+      "971",
+      "Battement normal"
+    ],
+    [
+      "972",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "973",
+      "Battement normal"
+    ],
+    [
+      "974",
+      "Battement normal"
+    ],
+    [
+      "975",
+      "Battement normal"
+    ],
+    [
+      "976",
+      "Battement normal"
+    ],
+    [
+      "977",
+      "Battement normal"
+    ],
+    [
+      "978",
+      "Battement normal"
+    ],
+    [
+      "979",
+      "Battement normal"
+    ],
+    [
+      "980",
+      "Battement normal"
+    ],
+    [
+      "981",
+      "Battement normal"
+    ],
+    [
+      "982",
+      "Battement normal"
+    ],
+    [
+      "983",
+      "Battement normal"
+    ],
+    [
+      "984",
+      "Battement normal"
+    ],
+    [
+      "985",
+      "Battement normal"
+    ],
+    [
+      "986",
+      "Battement normal"
+    ],
+    [
+      "987",
+      "Battement normal"
+    ],
+    [
+      "988",
+      "Battement normal"
+    ],
+    [
+      "989",
+      "Battement normal"
+    ],
+    [
+      "990",
+      "Battement normal"
+    ],
+    [
+      "991",
+      "Battement normal"
+    ],
+    [
+      "992",
+      "Battement normal"
+    ],
+    [
+      "993",
+      "Battement normal"
+    ],
+    [
+      "994",
+      "Battement normal"
+    ],
+    [
+      "995",
+      "Battement normal"
+    ],
+    [
+      "996",
+      "Battement normal"
+    ],
+    [
+      "997",
+      "Battement normal"
+    ],
+    [
+      "998",
+      "Battement normal"
+    ],
+    [
+      "999",
+      "Battement normal"
+    ],
+    [
+      "1000",
+      "Battement de fusion"
+    ],
+    [
+      "1001",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1002",
+      "Battement normal"
+    ],
+    [
+      "1003",
+      "Battement normal"
+    ],
+    [
+      "1004",
+      "Battement normal"
+    ],
+    [
+      "1005",
+      "Battement normal"
+    ],
+    [
+      "1006",
+      "Battement normal"
+    ],
+    [
+      "1007",
+      "Battement normal"
+    ],
+    [
+      "1008",
+      "Battement normal"
+    ],
+    [
+      "1009",
+      "Battement normal"
+    ],
+    [
+      "1010",
+      "Battement normal"
+    ],
+    [
+      "1011",
+      "Battement normal"
+    ],
+    [
+      "1012",
+      "Battement normal"
+    ],
+    [
+      "1013",
+      "Battement normal"
+    ],
+    [
+      "1014",
+      "Battement normal"
+    ],
+    [
+      "1015",
+      "Battement normal"
+    ],
+    [
+      "1016",
+      "Battement normal"
+    ],
+    [
+      "1017",
+      "Battement normal"
+    ],
+    [
+      "1018",
+      "Battement normal"
+    ],
+    [
+      "1019",
+      "Battement normal"
+    ],
+    [
+      "1020",
+      "Battement normal"
+    ],
+    [
+      "1021",
+      "Battement normal"
+    ],
+    [
+      "1022",
+      "Battement normal"
+    ],
+    [
+      "1023",
+      "Battement normal"
+    ],
+    [
+      "1024",
+      "Battement normal"
+    ],
+    [
+      "1025",
+      "Battement normal"
+    ],
+    [
+      "1026",
+      "Battement normal"
+    ],
+    [
+      "1027",
+      "Battement normal"
+    ],
+    [
+      "1028",
+      "Battement normal"
+    ],
+    [
+      "1029",
+      "Battement normal"
+    ],
+    [
+      "1030",
+      "Battement normal"
+    ],
+    [
+      "1031",
+      "Battement normal"
+    ],
+    [
+      "1032",
+      "Battement normal"
+    ],
+    [
+      "1033",
+      "Battement normal"
+    ],
+    [
+      "1034",
+      "Battement normal"
+    ],
+    [
+      "1035",
+      "Battement normal"
+    ],
+    [
+      "1036",
+      "Battement normal"
+    ],
+    [
+      "1037",
+      "Battement normal"
+    ],
+    [
+      "1038",
+      "Battement normal"
+    ],
+    [
+      "1039",
+      "Battement normal"
+    ],
+    [
+      "1040",
+      "Battement normal"
+    ],
+    [
+      "1041",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1042",
+      "Battement normal"
+    ],
+    [
+      "1043",
+      "Battement normal"
+    ],
+    [
+      "1044",
+      "Battement normal"
+    ],
+    [
+      "1045",
+      "Battement normal"
+    ],
+    [
+      "1046",
+      "Battement de fusion"
+    ],
+    [
+      "1047",
+      "Battement normal"
+    ],
+    [
+      "1048",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1049",
+      "Battement normal"
+    ],
+    [
+      "1050",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1051",
+      "Battement normal"
+    ],
+    [
+      "1052",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1053",
+      "Battement normal"
+    ],
+    [
+      "1054",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1055",
+      "Battement normal"
+    ],
+    [
+      "1056",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1057",
+      "Battement normal"
+    ],
+    [
+      "1058",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1059",
+      "Battement normal"
+    ],
+    [
+      "1060",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1061",
+      "Battement normal"
+    ],
+    [
+      "1062",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1063",
+      "Battement normal"
+    ],
+    [
+      "1064",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1065",
+      "Battement normal"
+    ],
+    [
+      "1066",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1067",
+      "Battement normal"
+    ],
+    [
+      "1068",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1069",
+      "Battement normal"
+    ],
+    [
+      "1070",
+      "Battement normal"
+    ],
+    [
+      "1071",
+      "Battement normal"
+    ],
+    [
+      "1072",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1073",
+      "Battement normal"
+    ],
+    [
+      "1074",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1075",
+      "Battement normal"
+    ],
+    [
+      "1076",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1077",
+      "Battement normal"
+    ],
+    [
+      "1078",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1079",
+      "Battement normal"
+    ],
+    [
+      "1080",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1081",
+      "Battement normal"
+    ],
+    [
+      "1082",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1083",
+      "Battement normal"
+    ],
+    [
+      "1084",
+      "Battement normal"
+    ],
+    [
+      "1085",
+      "Battement normal"
+    ],
+    [
+      "1086",
+      "Battement normal"
+    ],
+    [
+      "1087",
+      "Battement normal"
+    ],
+    [
+      "1088",
+      "Battement normal"
+    ],
+    [
+      "1089",
+      "Battement normal"
+    ],
+    [
+      "1090",
+      "Battement normal"
+    ],
+    [
+      "1091",
+      "Battement normal"
+    ],
+    [
+      "1092",
+      "Battement normal"
+    ],
+    [
+      "1093",
+      "Battement normal"
+    ],
+    [
+      "1094",
+      "Battement normal"
+    ],
+    [
+      "1095",
+      "Battement normal"
+    ],
+    [
+      "1096",
+      "Battement normal"
+    ],
+    [
+      "1097",
+      "Battement normal"
+    ],
+    [
+      "1098",
+      "Battement normal"
+    ],
+    [
+      "1099",
+      "Battement normal"
+    ],
+    [
+      "1100",
+      "Battement normal"
+    ],
+    [
+      "1101",
+      "Battement normal"
+    ],
+    [
+      "1102",
+      "Battement normal"
+    ],
+    [
+      "1103",
+      "Battement normal"
+    ],
+    [
+      "1104",
+      "Battement normal"
+    ],
+    [
+      "1105",
+      "Battement normal"
+    ],
+    [
+      "1106",
+      "Battement normal"
+    ],
+    [
+      "1107",
+      "Battement normal"
+    ],
+    [
+      "1108",
+      "Battement normal"
+    ],
+    [
+      "1109",
+      "Battement normal"
+    ],
+    [
+      "1110",
+      "Battement normal"
+    ],
+    [
+      "1111",
+      "Battement normal"
+    ],
+    [
+      "1112",
+      "Battement normal"
+    ],
+    [
+      "1113",
+      "Battement normal"
+    ],
+    [
+      "1114",
+      "Battement normal"
+    ],
+    [
+      "1115",
+      "Battement normal"
+    ],
+    [
+      "1116",
+      "Battement normal"
+    ],
+    [
+      "1117",
+      "Battement normal"
+    ],
+    [
+      "1118",
+      "Battement normal"
+    ],
+    [
+      "1119",
+      "Battement normal"
+    ],
+    [
+      "1120",
+      "Battement normal"
+    ],
+    [
+      "1121",
+      "Battement normal"
+    ],
+    [
+      "1122",
+      "Battement normal"
+    ],
+    [
+      "1123",
+      "Battement normal"
+    ],
+    [
+      "1124",
+      "Battement normal"
+    ],
+    [
+      "1125",
+      "Battement normal"
+    ],
+    [
+      "1126",
+      "Battement normal"
+    ],
+    [
+      "1127",
+      "Battement normal"
+    ],
+    [
+      "1128",
+      "Battement normal"
+    ],
+    [
+      "1129",
+      "Battement normal"
+    ],
+    [
+      "1130",
+      "Battement normal"
+    ],
+    [
+      "1131",
+      "Battement normal"
+    ],
+    [
+      "1132",
+      "Battement normal"
+    ],
+    [
+      "1133",
+      "Battement normal"
+    ],
+    [
+      "1134",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1135",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1136",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1137",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1138",
+      "Battement normal"
+    ],
+    [
+      "1139",
+      "Battement normal"
+    ],
+    [
+      "1140",
+      "Battement normal"
+    ],
+    [
+      "1141",
+      "Battement normal"
+    ],
+    [
+      "1142",
+      "Battement normal"
+    ],
+    [
+      "1143",
+      "Battement normal"
+    ],
+    [
+      "1144",
+      "Battement normal"
+    ],
+    [
+      "1145",
+      "Battement normal"
+    ],
+    [
+      "1146",
+      "Battement normal"
+    ],
+    [
+      "1147",
+      "Battement normal"
+    ],
+    [
+      "1148",
+      "Battement normal"
+    ],
+    [
+      "1149",
+      "Battement normal"
+    ],
+    [
+      "1150",
+      "Battement normal"
+    ],
+    [
+      "1151",
+      "Battement normal"
+    ],
+    [
+      "1152",
+      "Battement normal"
+    ],
+    [
+      "1153",
+      "Battement normal"
+    ],
+    [
+      "1154",
+      "Battement normal"
+    ],
+    [
+      "1155",
+      "Battement normal"
+    ],
+    [
+      "1156",
+      "Battement normal"
+    ],
+    [
+      "1157",
+      "Battement normal"
+    ],
+    [
+      "1158",
+      "Battement normal"
+    ],
+    [
+      "1159",
+      "Battement normal"
+    ],
+    [
+      "1160",
+      "Battement normal"
+    ],
+    [
+      "1161",
+      "Battement normal"
+    ],
+    [
+      "1162",
+      "Battement normal"
+    ],
+    [
+      "1163",
+      "Battement normal"
+    ],
+    [
+      "1164",
+      "Battement normal"
+    ],
+    [
+      "1165",
+      "Battement normal"
+    ],
+    [
+      "1166",
+      "Battement normal"
+    ],
+    [
+      "1167",
+      "Battement normal"
+    ],
+    [
+      "1168",
+      "Battement normal"
+    ],
+    [
+      "1169",
+      "Battement normal"
+    ],
+    [
+      "1170",
+      "Battement normal"
+    ],
+    [
+      "1171",
+      "Battement normal"
+    ],
+    [
+      "1172",
+      "Battement normal"
+    ],
+    [
+      "1173",
+      "Battement normal"
+    ],
+    [
+      "1174",
+      "Battement normal"
+    ],
+    [
+      "1175",
+      "Battement normal"
+    ],
+    [
+      "1176",
+      "Battement normal"
+    ],
+    [
+      "1177",
+      "Battement normal"
+    ],
+    [
+      "1178",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1179",
+      "Battement normal"
+    ],
+    [
+      "1180",
+      "Battement normal"
+    ],
+    [
+      "1181",
+      "Battement normal"
+    ],
+    [
+      "1182",
+      "Battement normal"
+    ],
+    [
+      "1183",
+      "Battement normal"
+    ],
+    [
+      "1184",
+      "Battement normal"
+    ],
+    [
+      "1185",
+      "Battement normal"
+    ],
+    [
+      "1186",
+      "Battement normal"
+    ],
+    [
+      "1187",
+      "Battement normal"
+    ],
+    [
+      "1188",
+      "Battement normal"
+    ],
+    [
+      "1189",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1190",
+      "Battement normal"
+    ],
+    [
+      "1191",
+      "Battement normal"
+    ],
+    [
+      "1192",
+      "Battement normal"
+    ],
+    [
+      "1193",
+      "Battement normal"
+    ],
+    [
+      "1194",
+      "Battement de fusion"
+    ],
+    [
+      "1195",
+      "Battement normal"
+    ],
+    [
+      "1196",
+      "Battement normal"
+    ],
+    [
+      "1197",
+      "Battement normal"
+    ],
+    [
+      "1198",
+      "Battement normal"
+    ],
+    [
+      "1199",
+      "Battement normal"
+    ],
+    [
+      "1200",
+      "Battement normal"
+    ],
+    [
+      "1201",
+      "Battement normal"
+    ],
+    [
+      "1202",
+      "Battement normal"
+    ],
+    [
+      "1203",
+      "Battement normal"
+    ],
+    [
+      "1204",
+      "Battement normal"
+    ],
+    [
+      "1205",
+      "Battement normal"
+    ],
+    [
+      "1206",
+      "Battement normal"
+    ],
+    [
+      "1207",
+      "Battement normal"
+    ],
+    [
+      "1208",
+      "Battement normal"
+    ],
+    [
+      "1209",
+      "Battement normal"
+    ],
+    [
+      "1210",
+      "Battement normal"
+    ],
+    [
+      "1211",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1212",
+      "Battement normal"
+    ],
+    [
+      "1213",
+      "Battement normal"
+    ],
+    [
+      "1214",
+      "Battement normal"
+    ],
+    [
+      "1215",
+      "Battement normal"
+    ],
+    [
+      "1216",
+      "Battement normal"
+    ],
+    [
+      "1217",
+      "Battement normal"
+    ],
+    [
+      "1218",
+      "Battement normal"
+    ],
+    [
+      "1219",
+      "Battement normal"
+    ],
+    [
+      "1220",
+      "Battement normal"
+    ],
+    [
+      "1221",
+      "Battement normal"
+    ],
+    [
+      "1222",
+      "Battement normal"
+    ],
+    [
+      "1223",
+      "Battement normal"
+    ],
+    [
+      "1224",
+      "Battement normal"
+    ],
+    [
+      "1225",
+      "Battement normal"
+    ],
+    [
+      "1226",
+      "Battement normal"
+    ],
+    [
+      "1227",
+      "Battement normal"
+    ],
+    [
+      "1228",
+      "Battement normal"
+    ],
+    [
+      "1229",
+      "Battement normal"
+    ],
+    [
+      "1230",
+      "Battement normal"
+    ],
+    [
+      "1231",
+      "Battement normal"
+    ],
+    [
+      "1232",
+      "Battement normal"
+    ],
+    [
+      "1233",
+      "Battement normal"
+    ],
+    [
+      "1234",
+      "Battement normal"
+    ],
+    [
+      "1235",
+      "Battement normal"
+    ],
+    [
+      "1236",
+      "Battement normal"
+    ],
+    [
+      "1237",
+      "Battement normal"
+    ],
+    [
+      "1238",
+      "Battement normal"
+    ],
+    [
+      "1239",
+      "Battement normal"
+    ],
+    [
+      "1240",
+      "Battement normal"
+    ],
+    [
+      "1241",
+      "Battement normal"
+    ],
+    [
+      "1242",
+      "Battement normal"
+    ],
+    [
+      "1243",
+      "Battement normal"
+    ],
+    [
+      "1244",
+      "Battement normal"
+    ],
+    [
+      "1245",
+      "Battement normal"
+    ],
+    [
+      "1246",
+      "Battement normal"
+    ],
+    [
+      "1247",
+      "Battement normal"
+    ],
+    [
+      "1248",
+      "Battement normal"
+    ],
+    [
+      "1249",
+      "Battement normal"
+    ],
+    [
+      "1250",
+      "Battement normal"
+    ],
+    [
+      "1251",
+      "Battement normal"
+    ],
+    [
+      "1252",
+      "Battement normal"
+    ],
+    [
+      "1253",
+      "Battement normal"
+    ],
+    [
+      "1254",
+      "Battement normal"
+    ],
+    [
+      "1255",
+      "Battement normal"
+    ],
+    [
+      "1256",
+      "Battement normal"
+    ],
+    [
+      "1257",
+      "Battement normal"
+    ],
+    [
+      "1258",
+      "Battement normal"
+    ],
+    [
+      "1259",
+      "Battement normal"
+    ],
+    [
+      "1260",
+      "Battement normal"
+    ],
+    [
+      "1261",
+      "Battement normal"
+    ],
+    [
+      "1262",
+      "Battement normal"
+    ],
+    [
+      "1263",
+      "Battement normal"
+    ],
+    [
+      "1264",
+      "Battement normal"
+    ],
+    [
+      "1265",
+      "Battement normal"
+    ],
+    [
+      "1266",
+      "Battement normal"
+    ],
+    [
+      "1267",
+      "Battement normal"
+    ],
+    [
+      "1268",
+      "Battement normal"
+    ],
+    [
+      "1269",
+      "Battement normal"
+    ],
+    [
+      "1270",
+      "Battement normal"
+    ],
+    [
+      "1271",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1272",
+      "Battement normal"
+    ],
+    [
+      "1273",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1274",
+      "Battement normal"
+    ],
+    [
+      "1275",
+      "Battement normal"
+    ],
+    [
+      "1276",
+      "Battement normal"
+    ],
+    [
+      "1277",
+      "Battement normal"
+    ],
+    [
+      "1278",
+      "Battement normal"
+    ],
+    [
+      "1279",
+      "Battement normal"
+    ],
+    [
+      "1280",
+      "Battement normal"
+    ],
+    [
+      "1281",
+      "Battement normal"
+    ],
+    [
+      "1282",
+      "Battement normal"
+    ],
+    [
+      "1283",
+      "Battement normal"
+    ],
+    [
+      "1284",
+      "Battement normal"
+    ],
+    [
+      "1285",
+      "Battement normal"
+    ],
+    [
+      "1286",
+      "Battement normal"
+    ],
+    [
+      "1287",
+      "Battement normal"
+    ],
+    [
+      "1288",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1289",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1290",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1291",
+      "Battement normal"
+    ],
+    [
+      "1292",
+      "Battement normal"
+    ],
+    [
+      "1293",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1294",
+      "Battement normal"
+    ],
+    [
+      "1295",
+      "Battement normal"
+    ],
+    [
+      "1296",
+      "Battement normal"
+    ],
+    [
+      "1297",
+      "Battement normal"
+    ],
+    [
+      "1298",
+      "Battement normal"
+    ],
+    [
+      "1299",
+      "Battement normal"
+    ],
+    [
+      "1300",
+      "Battement normal"
+    ],
+    [
+      "1301",
+      "Battement normal"
+    ],
+    [
+      "1302",
+      "Battement normal"
+    ],
+    [
+      "1303",
+      "Battement normal"
+    ],
+    [
+      "1304",
+      "Battement normal"
+    ],
+    [
+      "1305",
+      "Battement normal"
+    ],
+    [
+      "1306",
+      "Battement normal"
+    ],
+    [
+      "1307",
+      "Battement normal"
+    ],
+    [
+      "1308",
+      "Battement normal"
+    ],
+    [
+      "1309",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1310",
+      "Battement normal"
+    ],
+    [
+      "1311",
+      "Battement normal"
+    ],
+    [
+      "1312",
+      "Battement normal"
+    ],
+    [
+      "1313",
+      "Battement normal"
+    ],
+    [
+      "1314",
+      "Battement normal"
+    ],
+    [
+      "1315",
+      "Battement normal"
+    ],
+    [
+      "1316",
+      "Battement normal"
+    ],
+    [
+      "1317",
+      "Battement normal"
+    ],
+    [
+      "1318",
+      "Battement normal"
+    ],
+    [
+      "1319",
+      "Battement normal"
+    ],
+    [
+      "1320",
+      "Battement normal"
+    ],
+    [
+      "1321",
+      "Battement normal"
+    ],
+    [
+      "1322",
+      "Battement normal"
+    ],
+    [
+      "1323",
+      "Battement normal"
+    ],
+    [
+      "1324",
+      "Battement normal"
+    ],
+    [
+      "1325",
+      "Battement normal"
+    ],
+    [
+      "1326",
+      "Battement normal"
+    ],
+    [
+      "1327",
+      "Battement normal"
+    ],
+    [
+      "1328",
+      "Battement normal"
+    ],
+    [
+      "1329",
+      "Battement normal"
+    ],
+    [
+      "1330",
+      "Battement normal"
+    ],
+    [
+      "1331",
+      "Battement normal"
+    ],
+    [
+      "1332",
+      "Battement normal"
+    ],
+    [
+      "1333",
+      "Battement normal"
+    ],
+    [
+      "1334",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1335",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1336",
+      "Battement normal"
+    ],
+    [
+      "1337",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1338",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1339",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1340",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1341",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1342",
+      "Battement normal"
+    ],
+    [
+      "1343",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1344",
+      "Battement normal"
+    ],
+    [
+      "1345",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1346",
+      "Battement normal"
+    ],
+    [
+      "1347",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1348",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1349",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1350",
+      "Battement normal"
+    ],
+    [
+      "1351",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1352",
+      "Battement normal"
+    ],
+    [
+      "1353",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1354",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1355",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1356",
+      "Battement normal"
+    ],
+    [
+      "1357",
+      "Battement normal"
+    ],
+    [
+      "1358",
+      "Battement normal"
+    ],
+    [
+      "1359",
+      "Battement normal"
+    ],
+    [
+      "1360",
+      "Battement normal"
+    ],
+    [
+      "1361",
+      "Battement normal"
+    ],
+    [
+      "1362",
+      "Battement normal"
+    ],
+    [
+      "1363",
+      "Battement normal"
+    ],
+    [
+      "1364",
+      "Battement normal"
+    ],
+    [
+      "1365",
+      "Battement normal"
+    ],
+    [
+      "1366",
+      "Battement normal"
+    ],
+    [
+      "1367",
+      "Battement normal"
+    ],
+    [
+      "1368",
+      "Battement normal"
+    ],
+    [
+      "1369",
+      "Battement normal"
+    ],
+    [
+      "1370",
+      "Battement normal"
+    ],
+    [
+      "1371",
+      "Battement normal"
+    ],
+    [
+      "1372",
+      "Battement normal"
+    ],
+    [
+      "1373",
+      "Battement normal"
+    ],
+    [
+      "1374",
+      "Battement normal"
+    ],
+    [
+      "1375",
+      "Battement normal"
+    ],
+    [
+      "1376",
+      "Battement normal"
+    ],
+    [
+      "1377",
+      "Battement normal"
+    ],
+    [
+      "1378",
+      "Battement normal"
+    ],
+    [
+      "1379",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1380",
+      "Battement normal"
+    ],
+    [
+      "1381",
+      "Battement normal"
+    ],
+    [
+      "1382",
+      "Battement normal"
+    ],
+    [
+      "1383",
+      "Battement normal"
+    ],
+    [
+      "1384",
+      "Battement normal"
+    ],
+    [
+      "1385",
+      "Battement normal"
+    ],
+    [
+      "1386",
+      "Battement normal"
+    ],
+    [
+      "1387",
+      "Battement normal"
+    ],
+    [
+      "1388",
+      "Battement normal"
+    ],
+    [
+      "1389",
+      "Battement normal"
+    ],
+    [
+      "1390",
+      "Battement normal"
+    ],
+    [
+      "1391",
+      "Battement normal"
+    ],
+    [
+      "1392",
+      "Battement normal"
+    ],
+    [
+      "1393",
+      "Battement normal"
+    ],
+    [
+      "1394",
+      "Battement normal"
+    ],
+    [
+      "1395",
+      "Battement normal"
+    ],
+    [
+      "1396",
+      "Battement normal"
+    ],
+    [
+      "1397",
+      "Battement normal"
+    ],
+    [
+      "1398",
+      "Battement normal"
+    ],
+    [
+      "1399",
+      "Battement normal"
+    ],
+    [
+      "1400",
+      "Battement normal"
+    ],
+    [
+      "1401",
+      "Battement normal"
+    ],
+    [
+      "1402",
+      "Battement normal"
+    ],
+    [
+      "1403",
+      "Battement normal"
+    ],
+    [
+      "1404",
+      "Battement normal"
+    ],
+    [
+      "1405",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1406",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1407",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1408",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1409",
+      "Battement normal"
+    ],
+    [
+      "1410",
+      "Battement normal"
+    ],
+    [
+      "1411",
+      "Battement normal"
+    ],
+    [
+      "1412",
+      "Battement normal"
+    ],
+    [
+      "1413",
+      "Battement normal"
+    ],
+    [
+      "1414",
+      "Battement normal"
+    ],
+    [
+      "1415",
+      "Battement normal"
+    ],
+    [
+      "1416",
+      "Battement normal"
+    ],
+    [
+      "1417",
+      "Battement normal"
+    ],
+    [
+      "1418",
+      "Battement normal"
+    ],
+    [
+      "1419",
+      "Battement normal"
+    ],
+    [
+      "1420",
+      "Battement normal"
+    ],
+    [
+      "1421",
+      "Battement normal"
+    ],
+    [
+      "1422",
+      "Battement normal"
+    ],
+    [
+      "1423",
+      "Battement normal"
+    ],
+    [
+      "1424",
+      "Battement normal"
+    ],
+    [
+      "1425",
+      "Battement normal"
+    ],
+    [
+      "1426",
+      "Battement normal"
+    ],
+    [
+      "1427",
+      "Battement normal"
+    ],
+    [
+      "1428",
+      "Battement normal"
+    ],
+    [
+      "1429",
+      "Battement normal"
+    ],
+    [
+      "1430",
+      "Battement normal"
+    ],
+    [
+      "1431",
+      "Battement normal"
+    ],
+    [
+      "1432",
+      "Battement normal"
+    ],
+    [
+      "1433",
+      "Battement normal"
+    ],
+    [
+      "1434",
+      "Battement normal"
+    ],
+    [
+      "1435",
+      "Battement normal"
+    ],
+    [
+      "1436",
+      "Battement normal"
+    ],
+    [
+      "1437",
+      "Battement normal"
+    ],
+    [
+      "1438",
+      "Battement normal"
+    ],
+    [
+      "1439",
+      "Battement normal"
+    ],
+    [
+      "1440",
+      "Battement normal"
+    ],
+    [
+      "1441",
+      "Battement normal"
+    ],
+    [
+      "1442",
+      "Battement normal"
+    ],
+    [
+      "1443",
+      "Battement normal"
+    ],
+    [
+      "1444",
+      "Battement normal"
+    ],
+    [
+      "1445",
+      "Battement normal"
+    ],
+    [
+      "1446",
+      "Battement normal"
+    ],
+    [
+      "1447",
+      "Battement normal"
+    ],
+    [
+      "1448",
+      "Battement normal"
+    ],
+    [
+      "1449",
+      "Battement normal"
+    ],
+    [
+      "1450",
+      "Battement normal"
+    ],
+    [
+      "1451",
+      "Battement normal"
+    ],
+    [
+      "1452",
+      "Battement normal"
+    ],
+    [
+      "1453",
+      "Battement de fusion"
+    ],
+    [
+      "1454",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1455",
+      "Battement normal"
+    ],
+    [
+      "1456",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1457",
+      "Battement normal"
+    ],
+    [
+      "1458",
+      "Battement de fusion"
+    ],
+    [
+      "1459",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1460",
+      "Battement normal"
+    ],
+    [
+      "1461",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1462",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1463",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1464",
+      "Battement normal"
+    ],
+    [
+      "1465",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1466",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1467",
+      "Battement normal"
+    ],
+    [
+      "1468",
+      "Battement normal"
+    ],
+    [
+      "1469",
+      "Battement normal"
+    ],
+    [
+      "1470",
+      "Battement normal"
+    ],
+    [
+      "1471",
+      "Battement de fusion"
+    ],
+    [
+      "1472",
+      "Battement normal"
+    ],
+    [
+      "1473",
+      "Battement normal"
+    ],
+    [
+      "1474",
+      "Battement normal"
+    ],
+    [
+      "1475",
+      "Battement normal"
+    ],
+    [
+      "1476",
+      "Battement normal"
+    ],
+    [
+      "1477",
+      "Battement normal"
+    ],
+    [
+      "1478",
+      "Battement de fusion"
+    ],
+    [
+      "1479",
+      "Battement normal"
+    ],
+    [
+      "1480",
+      "Battement normal"
+    ],
+    [
+      "1481",
+      "Battement normal"
+    ],
+    [
+      "1482",
+      "Battement normal"
+    ],
+    [
+      "1483",
+      "Battement de fusion"
+    ],
+    [
+      "1484",
+      "Battement normal"
+    ],
+    [
+      "1485",
+      "Battement normal"
+    ],
+    [
+      "1486",
+      "Battement de fusion"
+    ],
+    [
+      "1487",
+      "Battement normal"
+    ],
+    [
+      "1488",
+      "Battement normal"
+    ],
+    [
+      "1489",
+      "Battement normal"
+    ],
+    [
+      "1490",
+      "Battement normal"
+    ],
+    [
+      "1491",
+      "Battement de fusion"
+    ],
+    [
+      "1492",
+      "Battement normal"
+    ],
+    [
+      "1493",
+      "Battement normal"
+    ],
+    [
+      "1494",
+      "Battement de fusion"
+    ],
+    [
+      "1495",
+      "Battement normal"
+    ],
+    [
+      "1496",
+      "Battement normal"
+    ],
+    [
+      "1497",
+      "Battement de fusion"
+    ],
+    [
+      "1498",
+      "Battement normal"
+    ],
+    [
+      "1499",
+      "Battement normal"
+    ],
+    [
+      "1500",
+      "Battement de fusion"
+    ],
+    [
+      "1501",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1502",
+      "Battement de fusion"
+    ],
+    [
+      "1503",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1504",
+      "Battement de fusion"
+    ],
+    [
+      "1505",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1506",
+      "Battement de fusion"
+    ],
+    [
+      "1507",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1508",
+      "Battement de fusion"
+    ],
+    [
+      "1509",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1510",
+      "Battement de fusion"
+    ],
+    [
+      "1511",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1512",
+      "Battement de fusion"
+    ],
+    [
+      "1513",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1514",
+      "Battement de fusion"
+    ],
+    [
+      "1515",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1516",
+      "Battement de fusion"
+    ],
+    [
+      "1517",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1518",
+      "Battement de fusion"
+    ],
+    [
+      "1519",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1520",
+      "Battement de fusion"
+    ],
+    [
+      "1521",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1522",
+      "Battement de fusion"
+    ],
+    [
+      "1523",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1524",
+      "Battement de fusion"
+    ],
+    [
+      "1525",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1526",
+      "Battement de fusion"
+    ],
+    [
+      "1527",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1528",
+      "Battement de fusion"
+    ],
+    [
+      "1529",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1530",
+      "Battement de fusion"
+    ],
+    [
+      "1531",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1532",
+      "Battement de fusion"
+    ],
+    [
+      "1533",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1534",
+      "Battement de fusion"
+    ],
+    [
+      "1535",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1536",
+      "Battement de fusion"
+    ],
+    [
+      "1537",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1538",
+      "Battement de fusion"
+    ],
+    [
+      "1539",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1540",
+      "Battement de fusion"
+    ],
+    [
+      "1541",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1542",
+      "Battement de fusion"
+    ],
+    [
+      "1543",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1544",
+      "Battement de fusion"
+    ],
+    [
+      "1545",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1546",
+      "Battement de fusion"
+    ],
+    [
+      "1547",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1548",
+      "Battement de fusion"
+    ],
+    [
+      "1549",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1550",
+      "Battement de fusion"
+    ],
+    [
+      "1551",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1552",
+      "Battement de fusion"
+    ],
+    [
+      "1553",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1554",
+      "Battement de fusion"
+    ],
+    [
+      "1555",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1556",
+      "Battement de fusion"
+    ],
+    [
+      "1557",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1558",
+      "Battement de fusion"
+    ],
+    [
+      "1559",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1560",
+      "Battement de fusion"
+    ],
+    [
+      "1561",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1562",
+      "Battement de fusion"
+    ],
+    [
+      "1563",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1564",
+      "Battement de fusion"
+    ],
+    [
+      "1565",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1566",
+      "Battement normal"
+    ],
+    [
+      "1567",
+      "Battement normal"
+    ],
+    [
+      "1568",
+      "Battement normal"
+    ],
+    [
+      "1569",
+      "Battement normal"
+    ],
+    [
+      "1570",
+      "Battement normal"
+    ],
+    [
+      "1571",
+      "Battement normal"
+    ],
+    [
+      "1572",
+      "Battement normal"
+    ],
+    [
+      "1573",
+      "Battement normal"
+    ],
+    [
+      "1574",
+      "Battement normal"
+    ],
+    [
+      "1575",
+      "Battement normal"
+    ],
+    [
+      "1576",
+      "Battement normal"
+    ],
+    [
+      "1577",
+      "Battement normal"
+    ],
+    [
+      "1578",
+      "Battement normal"
+    ],
+    [
+      "1579",
+      "Battement normal"
+    ],
+    [
+      "1580",
+      "Battement normal"
+    ],
+    [
+      "1581",
+      "Battement normal"
+    ],
+    [
+      "1582",
+      "Battement normal"
+    ],
+    [
+      "1583",
+      "Battement normal"
+    ],
+    [
+      "1584",
+      "Battement normal"
+    ],
+    [
+      "1585",
+      "Battement normal"
+    ],
+    [
+      "1586",
+      "Battement normal"
+    ],
+    [
+      "1587",
+      "Battement normal"
+    ],
+    [
+      "1588",
+      "Battement normal"
+    ],
+    [
+      "1589",
+      "Battement normal"
+    ],
+    [
+      "1590",
+      "Battement normal"
+    ],
+    [
+      "1591",
+      "Battement normal"
+    ],
+    [
+      "1592",
+      "Battement normal"
+    ],
+    [
+      "1593",
+      "Battement normal"
+    ],
+    [
+      "1594",
+      "Battement normal"
+    ],
+    [
+      "1595",
+      "Battement normal"
+    ],
+    [
+      "1596",
+      "Battement normal"
+    ],
+    [
+      "1597",
+      "Battement normal"
+    ],
+    [
+      "1598",
+      "Battement normal"
+    ],
+    [
+      "1599",
+      "Battement normal"
+    ],
+    [
+      "1600",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1601",
+      "Battement normal"
+    ],
+    [
+      "1602",
+      "Battement normal"
+    ],
+    [
+      "1603",
+      "Battement normal"
+    ],
+    [
+      "1604",
+      "Battement normal"
+    ],
+    [
+      "1605",
+      "Battement normal"
+    ],
+    [
+      "1606",
+      "Battement normal"
+    ],
+    [
+      "1607",
+      "Battement normal"
+    ],
+    [
+      "1608",
+      "Battement normal"
+    ],
+    [
+      "1609",
+      "Battement normal"
+    ],
+    [
+      "1610",
+      "Battement normal"
+    ],
+    [
+      "1611",
+      "Battement normal"
+    ],
+    [
+      "1612",
+      "Battement normal"
+    ],
+    [
+      "1613",
+      "Battement normal"
+    ],
+    [
+      "1614",
+      "Battement normal"
+    ],
+    [
+      "1615",
+      "Battement normal"
+    ],
+    [
+      "1616",
+      "Battement normal"
+    ],
+    [
+      "1617",
+      "Battement normal"
+    ],
+    [
+      "1618",
+      "Battement normal"
+    ],
+    [
+      "1619",
+      "Battement normal"
+    ],
+    [
+      "1620",
+      "Battement normal"
+    ],
+    [
+      "1621",
+      "Battement normal"
+    ],
+    [
+      "1622",
+      "Battement normal"
+    ],
+    [
+      "1623",
+      "Battement normal"
+    ],
+    [
+      "1624",
+      "Battement normal"
+    ],
+    [
+      "1625",
+      "Battement normal"
+    ],
+    [
+      "1626",
+      "Battement normal"
+    ],
+    [
+      "1627",
+      "Battement normal"
+    ],
+    [
+      "1628",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1629",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1630",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1631",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1632",
+      "Battement normal"
+    ],
+    [
+      "1633",
+      "Battement normal"
+    ],
+    [
+      "1634",
+      "Battement normal"
+    ],
+    [
+      "1635",
+      "Battement normal"
+    ],
+    [
+      "1636",
+      "Battement normal"
+    ],
+    [
+      "1637",
+      "Battement normal"
+    ],
+    [
+      "1638",
+      "Battement normal"
+    ],
+    [
+      "1639",
+      "Battement normal"
+    ],
+    [
+      "1640",
+      "Battement normal"
+    ],
+    [
+      "1641",
+      "Battement normal"
+    ],
+    [
+      "1642",
+      "Battement normal"
+    ],
+    [
+      "1643",
+      "Battement normal"
+    ],
+    [
+      "1644",
+      "Battement normal"
+    ],
+    [
+      "1645",
+      "Battement normal"
+    ],
+    [
+      "1646",
+      "Battement normal"
+    ],
+    [
+      "1647",
+      "Battement normal"
+    ],
+    [
+      "1648",
+      "Battement normal"
+    ],
+    [
+      "1649",
+      "Battement normal"
+    ],
+    [
+      "1650",
+      "Battement normal"
+    ],
+    [
+      "1651",
+      "Battement normal"
+    ],
+    [
+      "1652",
+      "Battement normal"
+    ],
+    [
+      "1653",
+      "Battement normal"
+    ],
+    [
+      "1654",
+      "Battement normal"
+    ],
+    [
+      "1655",
+      "Battement normal"
+    ],
+    [
+      "1656",
+      "Battement normal"
+    ],
+    [
+      "1657",
+      "Battement normal"
+    ],
+    [
+      "1658",
+      "Battement normal"
+    ],
+    [
+      "1659",
+      "Battement normal"
+    ],
+    [
+      "1660",
+      "Battement normal"
+    ],
+    [
+      "1661",
+      "Battement normal"
+    ],
+    [
+      "1662",
+      "Battement normal"
+    ],
+    [
+      "1663",
+      "Battement normal"
+    ],
+    [
+      "1664",
+      "Battement normal"
+    ],
+    [
+      "1665",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1666",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1667",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1668",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1669",
+      "Battement normal"
+    ],
+    [
+      "1670",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1671",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1672",
+      "Battement normal"
+    ],
+    [
+      "1673",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1674",
+      "Battement normal"
+    ],
+    [
+      "1675",
+      "Battement normal"
+    ],
+    [
+      "1676",
+      "Battement normal"
+    ],
+    [
+      "1677",
+      "Battement normal"
+    ],
+    [
+      "1678",
+      "Battement normal"
+    ],
+    [
+      "1679",
+      "Battement normal"
+    ],
+    [
+      "1680",
+      "Battement normal"
+    ],
+    [
+      "1681",
+      "Battement normal"
+    ],
+    [
+      "1682",
+      "Battement normal"
+    ],
+    [
+      "1683",
+      "Battement normal"
+    ],
+    [
+      "1684",
+      "Battement normal"
+    ],
+    [
+      "1685",
+      "Battement normal"
+    ],
+    [
+      "1686",
+      "Battement normal"
+    ],
+    [
+      "1687",
+      "Battement normal"
+    ],
+    [
+      "1688",
+      "Battement normal"
+    ],
+    [
+      "1689",
+      "Battement normal"
+    ],
+    [
+      "1690",
+      "Battement normal"
+    ],
+    [
+      "1691",
+      "Battement normal"
+    ],
+    [
+      "1692",
+      "Battement normal"
+    ],
+    [
+      "1693",
+      "Battement normal"
+    ],
+    [
+      "1694",
+      "Battement normal"
+    ],
+    [
+      "1695",
+      "Battement normal"
+    ],
+    [
+      "1696",
+      "Battement normal"
+    ],
+    [
+      "1697",
+      "Battement normal"
+    ],
+    [
+      "1698",
+      "Battement normal"
+    ],
+    [
+      "1699",
+      "Battement normal"
+    ],
+    [
+      "1700",
+      "Battement normal"
+    ],
+    [
+      "1701",
+      "Battement normal"
+    ],
+    [
+      "1702",
+      "Battement normal"
+    ],
+    [
+      "1703",
+      "Battement normal"
+    ],
+    [
+      "1704",
+      "Battement normal"
+    ],
+    [
+      "1705",
+      "Battement normal"
+    ],
+    [
+      "1706",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1707",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1708",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1709",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1710",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1711",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1712",
+      "Battement normal"
+    ],
+    [
+      "1713",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1714",
+      "Battement normal"
+    ],
+    [
+      "1715",
+      "Battement normal"
+    ],
+    [
+      "1716",
+      "Battement normal"
+    ],
+    [
+      "1717",
+      "Battement normal"
+    ],
+    [
+      "1718",
+      "Battement normal"
+    ],
+    [
+      "1719",
+      "Battement normal"
+    ],
+    [
+      "1720",
+      "Battement normal"
+    ],
+    [
+      "1721",
+      "Battement normal"
+    ],
+    [
+      "1722",
+      "Battement normal"
+    ],
+    [
+      "1723",
+      "Battement normal"
+    ],
+    [
+      "1724",
+      "Battement normal"
+    ],
+    [
+      "1725",
+      "Battement normal"
+    ],
+    [
+      "1726",
+      "Battement normal"
+    ],
+    [
+      "1727",
+      "Battement normal"
+    ],
+    [
+      "1728",
+      "Battement normal"
+    ],
+    [
+      "1729",
+      "Battement normal"
+    ],
+    [
+      "1730",
+      "Battement normal"
+    ],
+    [
+      "1731",
+      "Battement normal"
+    ],
+    [
+      "1732",
+      "Battement normal"
+    ],
+    [
+      "1733",
+      "Battement normal"
+    ],
+    [
+      "1734",
+      "Battement normal"
+    ],
+    [
+      "1735",
+      "Battement normal"
+    ],
+    [
+      "1736",
+      "Battement normal"
+    ],
+    [
+      "1737",
+      "Battement normal"
+    ],
+    [
+      "1738",
+      "Battement normal"
+    ],
+    [
+      "1739",
+      "Battement normal"
+    ],
+    [
+      "1740",
+      "Battement normal"
+    ],
+    [
+      "1741",
+      "Battement normal"
+    ],
+    [
+      "1742",
+      "Battement normal"
+    ],
+    [
+      "1743",
+      "Battement normal"
+    ],
+    [
+      "1744",
+      "Battement normal"
+    ],
+    [
+      "1745",
+      "Battement normal"
+    ],
+    [
+      "1746",
+      "Battement normal"
+    ],
+    [
+      "1747",
+      "Battement normal"
+    ],
+    [
+      "1748",
+      "Battement normal"
+    ],
+    [
+      "1749",
+      "Battement normal"
+    ],
+    [
+      "1750",
+      "Battement normal"
+    ],
+    [
+      "1751",
+      "Battement normal"
+    ],
+    [
+      "1752",
+      "Battement normal"
+    ],
+    [
+      "1753",
+      "Battement normal"
+    ],
+    [
+      "1754",
+      "Battement normal"
+    ],
+    [
+      "1755",
+      "Battement normal"
+    ],
+    [
+      "1756",
+      "Battement normal"
+    ],
+    [
+      "1757",
+      "Battement normal"
+    ],
+    [
+      "1758",
+      "Battement normal"
+    ],
+    [
+      "1759",
+      "Battement normal"
+    ],
+    [
+      "1760",
+      "Battement normal"
+    ],
+    [
+      "1761",
+      "Battement normal"
+    ],
+    [
+      "1762",
+      "Battement normal"
+    ],
+    [
+      "1763",
+      "Battement normal"
+    ],
+    [
+      "1764",
+      "Battement normal"
+    ],
+    [
+      "1765",
+      "Battement normal"
+    ],
+    [
+      "1766",
+      "Battement normal"
+    ],
+    [
+      "1767",
+      "Battement normal"
+    ],
+    [
+      "1768",
+      "Battement normal"
+    ],
+    [
+      "1769",
+      "Battement normal"
+    ],
+    [
+      "1770",
+      "Battement normal"
+    ],
+    [
+      "1771",
+      "Battement normal"
+    ],
+    [
+      "1772",
+      "Battement normal"
+    ],
+    [
+      "1773",
+      "Battement normal"
+    ],
+    [
+      "1774",
+      "Battement normal"
+    ],
+    [
+      "1775",
+      "Battement normal"
+    ],
+    [
+      "1776",
+      "Battement normal"
+    ],
+    [
+      "1777",
+      "Battement normal"
+    ],
+    [
+      "1778",
+      "Battement normal"
+    ],
+    [
+      "1779",
+      "Battement normal"
+    ],
+    [
+      "1780",
+      "Battement normal"
+    ],
+    [
+      "1781",
+      "Battement normal"
+    ],
+    [
+      "1782",
+      "Battement normal"
+    ],
+    [
+      "1783",
+      "Battement normal"
+    ],
+    [
+      "1784",
+      "Battement normal"
+    ],
+    [
+      "1785",
+      "Battement normal"
+    ],
+    [
+      "1786",
+      "Battement normal"
+    ],
+    [
+      "1787",
+      "Battement normal"
+    ],
+    [
+      "1788",
+      "Battement normal"
+    ],
+    [
+      "1789",
+      "Battement normal"
+    ],
+    [
+      "1790",
+      "Battement normal"
+    ],
+    [
+      "1791",
+      "Battement normal"
+    ],
+    [
+      "1792",
+      "Battement normal"
+    ],
+    [
+      "1793",
+      "Battement normal"
+    ],
+    [
+      "1794",
+      "Battement normal"
+    ],
+    [
+      "1795",
+      "Battement normal"
+    ],
+    [
+      "1796",
+      "Battement normal"
+    ],
+    [
+      "1797",
+      "Battement normal"
+    ],
+    [
+      "1798",
+      "Battement normal"
+    ],
+    [
+      "1799",
+      "Battement normal"
+    ],
+    [
+      "1800",
+      "Battement normal"
+    ],
+    [
+      "1801",
+      "Battement normal"
+    ],
+    [
+      "1802",
+      "Battement normal"
+    ],
+    [
+      "1803",
+      "Battement normal"
+    ],
+    [
+      "1804",
+      "Battement normal"
+    ],
+    [
+      "1805",
+      "Battement normal"
+    ],
+    [
+      "1806",
+      "Battement normal"
+    ],
+    [
+      "1807",
+      "Battement normal"
+    ],
+    [
+      "1808",
+      "Battement normal"
+    ],
+    [
+      "1809",
+      "Battement normal"
+    ],
+    [
+      "1810",
+      "Battement normal"
+    ],
+    [
+      "1811",
+      "Battement normal"
+    ],
+    [
+      "1812",
+      "Battement normal"
+    ],
+    [
+      "1813",
+      "Battement normal"
+    ],
+    [
+      "1814",
+      "Battement normal"
+    ],
+    [
+      "1815",
+      "Battement normal"
+    ],
+    [
+      "1816",
+      "Battement normal"
+    ],
+    [
+      "1817",
+      "Battement normal"
+    ],
+    [
+      "1818",
+      "Battement normal"
+    ],
+    [
+      "1819",
+      "Battement normal"
+    ],
+    [
+      "1820",
+      "Battement normal"
+    ],
+    [
+      "1821",
+      "Battement normal"
+    ],
+    [
+      "1822",
+      "Battement normal"
+    ],
+    [
+      "1823",
+      "Battement normal"
+    ],
+    [
+      "1824",
+      "Battement normal"
+    ],
+    [
+      "1825",
+      "Battement normal"
+    ],
+    [
+      "1826",
+      "Battement normal"
+    ],
+    [
+      "1827",
+      "Battement normal"
+    ],
+    [
+      "1828",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1829",
+      "Battement normal"
+    ],
+    [
+      "1830",
+      "Battement normal"
+    ],
+    [
+      "1831",
+      "Battement normal"
+    ],
+    [
+      "1832",
+      "Battement normal"
+    ],
+    [
+      "1833",
+      "Battement normal"
+    ],
+    [
+      "1834",
+      "Battement normal"
+    ],
+    [
+      "1835",
+      "Battement normal"
+    ],
+    [
+      "1836",
+      "Battement normal"
+    ],
+    [
+      "1837",
+      "Battement normal"
+    ],
+    [
+      "1838",
+      "Battement normal"
+    ],
+    [
+      "1839",
+      "Battement normal"
+    ],
+    [
+      "1840",
+      "Battement normal"
+    ],
+    [
+      "1841",
+      "Battement normal"
+    ],
+    [
+      "1842",
+      "Battement normal"
+    ],
+    [
+      "1843",
+      "Battement normal"
+    ],
+    [
+      "1844",
+      "Battement normal"
+    ],
+    [
+      "1845",
+      "Battement normal"
+    ],
+    [
+      "1846",
+      "Battement normal"
+    ],
+    [
+      "1847",
+      "Battement normal"
+    ],
+    [
+      "1848",
+      "Battement normal"
+    ],
+    [
+      "1849",
+      "Battement normal"
+    ],
+    [
+      "1850",
+      "Battement normal"
+    ],
+    [
+      "1851",
+      "Battement normal"
+    ],
+    [
+      "1852",
+      "Battement normal"
+    ],
+    [
+      "1853",
+      "Battement normal"
+    ],
+    [
+      "1854",
+      "Battement normal"
+    ],
+    [
+      "1855",
+      "Battement normal"
+    ],
+    [
+      "1856",
+      "Battement normal"
+    ],
+    [
+      "1857",
+      "Battement normal"
+    ],
+    [
+      "1858",
+      "Battement normal"
+    ],
+    [
+      "1859",
+      "Battement normal"
+    ],
+    [
+      "1860",
+      "Battement normal"
+    ],
+    [
+      "1861",
+      "Battement normal"
+    ],
+    [
+      "1862",
+      "Battement normal"
+    ],
+    [
+      "1863",
+      "Battement normal"
+    ],
+    [
+      "1864",
+      "Battement normal"
+    ],
+    [
+      "1865",
+      "Battement normal"
+    ],
+    [
+      "1866",
+      "Battement normal"
+    ],
+    [
+      "1867",
+      "Battement normal"
+    ],
+    [
+      "1868",
+      "Battement normal"
+    ],
+    [
+      "1869",
+      "Battement normal"
+    ],
+    [
+      "1870",
+      "Battement normal"
+    ],
+    [
+      "1871",
+      "Battement normal"
+    ],
+    [
+      "1872",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1873",
+      "Battement normal"
+    ],
+    [
+      "1874",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1875",
+      "Battement normal"
+    ],
+    [
+      "1876",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1877",
+      "Battement normal"
+    ],
+    [
+      "1878",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1879",
+      "Battement normal"
+    ],
+    [
+      "1880",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1881",
+      "Battement normal"
+    ],
+    [
+      "1882",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1883",
+      "Battement normal"
+    ],
+    [
+      "1884",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1885",
+      "Battement normal"
+    ],
+    [
+      "1886",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1887",
+      "Battement normal"
+    ],
+    [
+      "1888",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1889",
+      "Battement normal"
+    ],
+    [
+      "1890",
+      "Battement normal"
+    ],
+    [
+      "1891",
+      "Battement normal"
+    ],
+    [
+      "1892",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1893",
+      "Battement normal"
+    ],
+    [
+      "1894",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1895",
+      "Battement normal"
+    ],
+    [
+      "1896",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1897",
+      "Battement normal"
+    ],
+    [
+      "1898",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1899",
+      "Battement normal"
+    ],
+    [
+      "1900",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1901",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1902",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1903",
+      "Battement normal"
+    ],
+    [
+      "1904",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1905",
+      "Battement normal"
+    ],
+    [
+      "1906",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1907",
+      "Battement normal"
+    ],
+    [
+      "1908",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1909",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1910",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1911",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1912",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1913",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1914",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1915",
+      "Battement normal"
+    ],
+    [
+      "1916",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1917",
+      "Battement normal"
+    ],
+    [
+      "1918",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1919",
+      "Battement normal"
+    ],
+    [
+      "1920",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1921",
+      "Battement normal"
+    ],
+    [
+      "1922",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1923",
+      "Battement normal"
+    ],
+    [
+      "1924",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1925",
+      "Battement normal"
+    ],
+    [
+      "1926",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1927",
+      "Battement normal"
+    ],
+    [
+      "1928",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1929",
+      "Battement normal"
+    ],
+    [
+      "1930",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1931",
+      "Battement normal"
+    ],
+    [
+      "1932",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1933",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1934",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1935",
+      "Battement normal"
+    ],
+    [
+      "1936",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1937",
+      "Battement normal"
+    ],
+    [
+      "1938",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1939",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1940",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1941",
+      "Battement normal"
+    ],
+    [
+      "1942",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1943",
+      "Battement normal"
+    ],
+    [
+      "1944",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1945",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1946",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1947",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1948",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1949",
+      "Battement normal"
+    ],
+    [
+      "1950",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1951",
+      "Battement normal"
+    ],
+    [
+      "1952",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1953",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1954",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1955",
+      "Battement normal"
+    ],
+    [
+      "1956",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1957",
+      "Battement normal"
+    ],
+    [
+      "1958",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1959",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1960",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1961",
+      "Battement normal"
+    ],
+    [
+      "1962",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1963",
+      "Battement normal"
+    ],
+    [
+      "1964",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1965",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1966",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1967",
+      "Battement normal"
+    ],
+    [
+      "1968",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1969",
+      "Battement normal"
+    ],
+    [
+      "1970",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1971",
+      "Battement normal"
+    ],
+    [
+      "1972",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1973",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1974",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1975",
+      "Battement normal"
+    ],
+    [
+      "1976",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1977",
+      "Battement normal"
+    ],
+    [
+      "1978",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1979",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1980",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1981",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1982",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1983",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1984",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1985",
+      "Battement normal"
+    ],
+    [
+      "1986",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1987",
+      "Battement normal"
+    ],
+    [
+      "1988",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1989",
+      "Battement normal"
+    ],
+    [
+      "1990",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1991",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1992",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1993",
+      "Battement normal"
+    ],
+    [
+      "1994",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1995",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1996",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1997",
+      "Battement normal"
+    ],
+    [
+      "1998",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1999",
+      "Battement normal"
+    ],
+    [
+      "2000",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2001",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2002",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2003",
+      "Battement normal"
+    ],
+    [
+      "2004",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2005",
+      "Battement normal"
+    ],
+    [
+      "2006",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2007",
+      "Battement normal"
+    ],
+    [
+      "2008",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2009",
+      "Battement normal"
+    ],
+    [
+      "2010",
+      "Battement normal"
+    ],
+    [
+      "2011",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2012",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2013",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2014",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2015",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2016",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2017",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2018",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2019",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2020",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2021",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2022",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2023",
+      "Battement normal"
+    ],
+    [
+      "2024",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2025",
+      "Battement normal"
+    ],
+    [
+      "2026",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2027",
+      "Battement normal"
+    ],
+    [
+      "2028",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2029",
+      "Battement normal"
+    ],
+    [
+      "2030",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2031",
+      "Battement normal"
+    ],
+    [
+      "2032",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2033",
+      "Battement normal"
+    ],
+    [
+      "2034",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2035",
+      "Battement normal"
+    ],
+    [
+      "2036",
+      "Battement normal"
+    ],
+    [
+      "2037",
+      "Battement normal"
+    ],
+    [
+      "2038",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2039",
+      "Battement normal"
+    ],
+    [
+      "2040",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2041",
+      "Battement normal"
+    ],
+    [
+      "2042",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2043",
+      "Battement normal"
+    ],
+    [
+      "2044",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2045",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2046",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2047",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2048",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2049",
+      "Battement normal"
+    ],
+    [
+      "2050",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2051",
+      "Battement normal"
+    ],
+    [
+      "2052",
+      "Battement normal"
+    ],
+    [
+      "2053",
+      "Battement normal"
+    ],
+    [
+      "2054",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2055",
+      "Battement normal"
+    ],
+    [
+      "2056",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2057",
+      "Battement normal"
+    ],
+    [
+      "2058",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2059",
+      "Battement normal"
+    ],
+    [
+      "2060",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2061",
+      "Battement normal"
+    ],
+    [
+      "2062",
+      "Battement normal"
+    ],
+    [
+      "2063",
+      "Battement normal"
+    ],
+    [
+      "2064",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2065",
+      "Battement normal"
+    ],
+    [
+      "2066",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2067",
+      "Battement normal"
+    ],
+    [
+      "2068",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2069",
+      "Battement normal"
+    ],
+    [
+      "2070",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2071",
+      "Battement normal"
+    ],
+    [
+      "2072",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2073",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2074",
+      "Battement normal"
+    ],
+    [
+      "2075",
+      "Battement normal"
+    ],
+    [
+      "2076",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2077",
+      "Battement normal"
+    ],
+    [
+      "2078",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2079",
+      "Battement normal"
+    ],
+    [
+      "2080",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2081",
+      "Battement normal"
+    ],
+    [
+      "2082",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2083",
+      "Battement normal"
+    ],
+    [
+      "2084",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2085",
+      "Battement normal"
+    ],
+    [
+      "2086",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2087",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2088",
+      "Battement normal"
+    ],
+    [
+      "2089",
+      "Battement normal"
+    ],
+    [
+      "2090",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2091",
+      "Battement normal"
+    ],
+    [
+      "2092",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2093",
+      "Battement normal"
+    ],
+    [
+      "2094",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2095",
+      "Battement normal"
+    ],
+    [
+      "2096",
+      "Battement normal"
+    ],
+    [
+      "2097",
+      "Battement normal"
+    ],
+    [
+      "2098",
+      "Battement normal"
+    ],
+    [
+      "2099",
+      "Battement normal"
+    ],
+    [
+      "2100",
+      "Battement normal"
+    ],
+    [
+      "2101",
+      "Battement normal"
+    ],
+    [
+      "2102",
+      "Battement normal"
+    ],
+    [
+      "2103",
+      "Battement normal"
+    ],
+    [
+      "2104",
+      "Battement normal"
+    ],
+    [
+      "2105",
+      "Battement normal"
+    ],
+    [
+      "2106",
+      "Battement normal"
+    ],
+    [
+      "2107",
+      "Battement normal"
+    ],
+    [
+      "2108",
+      "Battement normal"
+    ],
+    [
+      "2109",
+      "Battement normal"
+    ],
+    [
+      "2110",
+      "Battement normal"
+    ],
+    [
+      "2111",
+      "Battement normal"
+    ],
+    [
+      "2112",
+      "Battement normal"
+    ],
+    [
+      "2113",
+      "Battement normal"
+    ],
+    [
+      "2114",
+      "Battement normal"
+    ],
+    [
+      "2115",
+      "Battement normal"
+    ],
+    [
+      "2116",
+      "Battement normal"
+    ],
+    [
+      "2117",
+      "Battement normal"
+    ],
+    [
+      "2118",
+      "Battement normal"
+    ],
+    [
+      "2119",
+      "Battement normal"
+    ],
+    [
+      "2120",
+      "Battement normal"
+    ],
+    [
+      "2121",
+      "Battement normal"
+    ],
+    [
+      "2122",
+      "Battement normal"
+    ],
+    [
+      "2123",
+      "Battement normal"
+    ],
+    [
+      "2124",
+      "Battement normal"
+    ],
+    [
+      "2125",
+      "Battement normal"
+    ],
+    [
+      "2126",
+      "Battement normal"
+    ],
+    [
+      "2127",
+      "Battement normal"
+    ],
+    [
+      "2128",
+      "Battement normal"
+    ],
+    [
+      "2129",
+      "Battement normal"
+    ],
+    [
+      "2130",
+      "Battement normal"
+    ],
+    [
+      "2131",
+      "Battement normal"
+    ],
+    [
+      "2132",
+      "Battement normal"
+    ],
+    [
+      "2133",
+      "Battement normal"
+    ],
+    [
+      "2134",
+      "Battement normal"
+    ],
+    [
+      "2135",
+      "Battement normal"
+    ],
+    [
+      "2136",
+      "Battement normal"
+    ],
+    [
+      "2137",
+      "Battement normal"
+    ],
+    [
+      "2138",
+      "Battement normal"
+    ],
+    [
+      "2139",
+      "Battement normal"
+    ],
+    [
+      "2140",
+      "Battement normal"
+    ],
+    [
+      "2141",
+      "Battement normal"
+    ],
+    [
+      "2142",
+      "Battement normal"
+    ],
+    [
+      "2143",
+      "Battement normal"
+    ],
+    [
+      "2144",
+      "Battement normal"
+    ],
+    [
+      "2145",
+      "Battement normal"
+    ],
+    [
+      "2146",
+      "Battement normal"
+    ],
+    [
+      "2147",
+      "Battement normal"
+    ],
+    [
+      "2148",
+      "Battement normal"
+    ],
+    [
+      "2149",
+      "Battement normal"
+    ],
+    [
+      "2150",
+      "Battement normal"
+    ],
+    [
+      "2151",
+      "Battement normal"
+    ],
+    [
+      "2152",
+      "Battement normal"
+    ],
+    [
+      "2153",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2154",
+      "Battement normal"
+    ],
+    [
+      "2155",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2156",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2157",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2158",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2159",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2160",
+      "Battement normal"
+    ],
+    [
+      "2161",
+      "Battement normal"
+    ],
+    [
+      "2162",
+      "Battement normal"
+    ],
+    [
+      "2163",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2164",
+      "Battement normal"
+    ],
+    [
+      "2165",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2166",
+      "Battement normal"
+    ],
+    [
+      "2167",
+      "Battement normal"
+    ],
+    [
+      "2168",
+      "Battement normal"
+    ],
+    [
+      "2169",
+      "Battement normal"
+    ],
+    [
+      "2170",
+      "Battement normal"
+    ],
+    [
+      "2171",
+      "Battement normal"
+    ],
+    [
+      "2172",
+      "Battement normal"
+    ],
+    [
+      "2173",
+      "Battement normal"
+    ],
+    [
+      "2174",
+      "Battement normal"
+    ],
+    [
+      "2175",
+      "Battement normal"
+    ],
+    [
+      "2176",
+      "Battement normal"
+    ],
+    [
+      "2177",
+      "Battement normal"
+    ],
+    [
+      "2178",
+      "Battement normal"
+    ],
+    [
+      "2179",
+      "Battement normal"
+    ],
+    [
+      "2180",
+      "Battement normal"
+    ],
+    [
+      "2181",
+      "Battement normal"
+    ],
+    [
+      "2182",
+      "Battement normal"
+    ],
+    [
+      "2183",
+      "Battement de fusion"
+    ],
+    [
+      "2184",
+      "Battement normal"
+    ],
+    [
+      "2185",
+      "Battement normal"
+    ],
+    [
+      "2186",
+      "Battement normal"
+    ],
+    [
+      "2187",
+      "Battement normal"
+    ],
+    [
+      "2188",
+      "Battement de fusion"
+    ],
+    [
+      "2189",
+      "Battement normal"
+    ],
+    [
+      "2190",
+      "Battement normal"
+    ],
+    [
+      "2191",
+      "Battement normal"
+    ],
+    [
+      "2192",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2193",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2194",
+      "Battement normal"
+    ],
+    [
+      "2195",
+      "Battement normal"
+    ],
+    [
+      "2196",
+      "Battement de fusion"
+    ],
+    [
+      "2197",
+      "Battement normal"
+    ],
+    [
+      "2198",
+      "Battement normal"
+    ],
+    [
+      "2199",
+      "Battement de fusion"
+    ],
+    [
+      "2200",
+      "Battement normal"
+    ],
+    [
+      "2201",
+      "Battement normal"
+    ],
+    [
+      "2202",
+      "Battement normal"
+    ],
+    [
+      "2203",
+      "Battement normal"
+    ],
+    [
+      "2204",
+      "Battement normal"
+    ],
+    [
+      "2205",
+      "Battement normal"
+    ],
+    [
+      "2206",
+      "Battement normal"
+    ],
+    [
+      "2207",
+      "Battement de fusion"
+    ],
+    [
+      "2208",
+      "Battement normal"
+    ],
+    [
+      "2209",
+      "Battement normal"
+    ],
+    [
+      "2210",
+      "Battement de fusion"
+    ],
+    [
+      "2211",
+      "Battement normal"
+    ],
+    [
+      "2212",
+      "Battement normal"
+    ],
+    [
+      "2213",
+      "Battement de fusion"
+    ],
+    [
+      "2214",
+      "Battement normal"
+    ],
+    [
+      "2215",
+      "Battement normal"
+    ],
+    [
+      "2216",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2217",
+      "Battement normal"
+    ],
+    [
+      "2218",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2219",
+      "Battement normal"
+    ],
+    [
+      "2220",
+      "Battement normal"
+    ],
+    [
+      "2221",
+      "Battement normal"
+    ],
+    [
+      "2222",
+      "Battement normal"
+    ],
+    [
+      "2223",
+      "Battement normal"
+    ],
+    [
+      "2224",
+      "Battement normal"
+    ],
+    [
+      "2225",
+      "Battement normal"
+    ],
+    [
+      "2226",
+      "Battement normal"
+    ],
+    [
+      "2227",
+      "Battement normal"
+    ],
+    [
+      "2228",
+      "Battement normal"
+    ],
+    [
+      "2229",
+      "Battement normal"
+    ],
+    [
+      "2230",
+      "Battement de fusion"
+    ],
+    [
+      "2231",
+      "Battement normal"
+    ],
+    [
+      "2232",
+      "Battement normal"
+    ],
+    [
+      "2233",
+      "Battement de fusion"
+    ],
+    [
+      "2234",
+      "Battement normal"
+    ],
+    [
+      "2235",
+      "Battement normal"
+    ],
+    [
+      "2236",
+      "Battement de fusion"
+    ],
+    [
+      "2237",
+      "Battement normal"
+    ],
+    [
+      "2238",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2239",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2240",
+      "Battement normal"
+    ],
+    [
+      "2241",
+      "Battement de fusion"
+    ],
+    [
+      "2242",
+      "Battement normal"
+    ],
+    [
+      "2243",
+      "Battement de fusion"
+    ],
+    [
+      "2244",
+      "Battement normal"
+    ],
+    [
+      "2245",
+      "Battement de fusion"
+    ],
+    [
+      "2246",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2247",
+      "Battement de fusion"
+    ],
+    [
+      "2248",
+      "Battement normal"
+    ],
+    [
+      "2249",
+      "Battement normal"
+    ],
+    [
+      "2250",
+      "Battement de fusion"
+    ],
+    [
+      "2251",
+      "Battement normal"
+    ],
+    [
+      "2252",
+      "Battement normal"
+    ],
+    [
+      "2253",
+      "Battement de fusion"
+    ],
+    [
+      "2254",
+      "Battement normal"
+    ],
+    [
+      "2255",
+      "Battement normal"
+    ],
+    [
+      "2256",
+      "Battement de fusion"
+    ],
+    [
+      "2257",
+      "Battement normal"
+    ],
+    [
+      "2258",
+      "Battement normal"
+    ],
+    [
+      "2259",
+      "Battement de fusion"
+    ],
+    [
+      "2260",
+      "Battement normal"
+    ],
+    [
+      "2261",
+      "Battement normal"
+    ],
+    [
+      "2262",
+      "Battement de fusion"
+    ],
+    [
+      "2263",
+      "Battement normal"
+    ],
+    [
+      "2264",
+      "Battement normal"
+    ],
+    [
+      "2265",
+      "Battement de fusion"
+    ],
+    [
+      "2266",
+      "Battement normal"
+    ],
+    [
+      "2267",
+      "Battement normal"
+    ],
+    [
+      "2268",
+      "Battement de fusion"
+    ],
+    [
+      "2269",
+      "Battement normal"
+    ],
+    [
+      "2270",
+      "Battement normal"
+    ],
+    [
+      "2271",
+      "Battement normal"
+    ],
+    [
+      "2272",
+      "Battement normal"
+    ],
+    [
+      "2273",
+      "Battement normal"
+    ],
+    [
+      "2274",
+      "Battement normal"
+    ],
+    [
+      "2275",
+      "Battement normal"
+    ],
+    [
+      "2276",
+      "Battement normal"
+    ],
+    [
+      "2277",
+      "Battement normal"
+    ],
+    [
+      "2278",
+      "Battement normal"
+    ],
+    [
+      "2279",
+      "Battement normal"
+    ],
+    [
+      "2280",
+      "Battement normal"
+    ],
+    [
+      "2281",
+      "Battement normal"
+    ],
+    [
+      "2282",
+      "Battement normal"
+    ],
+    [
+      "2283",
+      "Battement normal"
+    ],
+    [
+      "2284",
+      "Battement normal"
+    ],
+    [
+      "2285",
+      "Battement normal"
+    ],
+    [
+      "2286",
+      "Battement normal"
+    ],
+    [
+      "2287",
+      "Battement normal"
+    ],
+    [
+      "2288",
+      "Battement normal"
+    ],
+    [
+      "2289",
+      "Battement normal"
+    ],
+    [
+      "2290",
+      "Battement normal"
+    ],
+    [
+      "2291",
+      "Battement normal"
+    ],
+    [
+      "2292",
+      "Battement normal"
+    ],
+    [
+      "2293",
+      "Battement normal"
+    ],
+    [
+      "2294",
+      "Battement normal"
+    ],
+    [
+      "2295",
+      "Battement normal"
+    ],
+    [
+      "2296",
+      "Battement normal"
+    ],
+    [
+      "2297",
+      "Battement normal"
+    ],
+    [
+      "2298",
+      "Battement normal"
+    ],
+    [
+      "2299",
+      "Battement normal"
+    ],
+    [
+      "2300",
+      "Battement normal"
+    ],
+    [
+      "2301",
+      "Battement normal"
+    ],
+    [
+      "2302",
+      "Battement normal"
+    ],
+    [
+      "2303",
+      "Battement normal"
+    ],
+    [
+      "2304",
+      "Battement normal"
+    ],
+    [
+      "2305",
+      "Battement normal"
+    ],
+    [
+      "2306",
+      "Battement normal"
+    ],
+    [
+      "2307",
+      "Battement normal"
+    ],
+    [
+      "2308",
+      "Battement normal"
+    ],
+    [
+      "2309",
+      "Battement normal"
+    ],
+    [
+      "2310",
+      "Battement normal"
+    ],
+    [
+      "2311",
+      "Battement normal"
+    ],
+    [
+      "2312",
+      "Battement normal"
+    ],
+    [
+      "2313",
+      "Battement normal"
+    ],
+    [
+      "2314",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2315",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2316",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2317",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2318",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2319",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2320",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2321",
+      "Battement normal"
+    ],
+    [
+      "2322",
+      "Battement normal"
+    ],
+    [
+      "2323",
+      "Battement normal"
+    ],
+    [
+      "2324",
+      "Battement normal"
+    ],
+    [
+      "2325",
+      "Battement normal"
+    ],
+    [
+      "2326",
+      "Battement normal"
+    ],
+    [
+      "2327",
+      "Battement normal"
+    ],
+    [
+      "2328",
+      "Battement normal"
+    ],
+    [
+      "2329",
+      "Battement normal"
+    ],
+    [
+      "2330",
+      "Battement normal"
+    ],
+    [
+      "2331",
+      "Battement normal"
+    ],
+    [
+      "2332",
+      "Battement normal"
+    ],
+    [
+      "2333",
+      "Battement normal"
+    ],
+    [
+      "2334",
+      "Battement normal"
+    ],
+    [
+      "2335",
+      "Battement normal"
+    ],
+    [
+      "2336",
+      "Battement normal"
+    ],
+    [
+      "2337",
+      "Battement normal"
+    ],
+    [
+      "2338",
+      "Battement normal"
+    ],
+    [
+      "2339",
+      "Battement normal"
+    ],
+    [
+      "2340",
+      "Battement normal"
+    ],
+    [
+      "2341",
+      "Battement normal"
+    ],
+    [
+      "2342",
+      "Battement normal"
+    ],
+    [
+      "2343",
+      "Battement normal"
+    ],
+    [
+      "2344",
+      "Battement normal"
+    ],
+    [
+      "2345",
+      "Battement normal"
+    ],
+    [
+      "2346",
+      "Battement normal"
+    ],
+    [
+      "2347",
+      "Battement normal"
+    ],
+    [
+      "2348",
+      "Battement normal"
+    ],
+    [
+      "2349",
+      "Battement normal"
+    ],
+    [
+      "2350",
+      "Battement normal"
+    ],
+    [
+      "2351",
+      "Battement normal"
+    ],
+    [
+      "2352",
+      "Battement normal"
+    ],
+    [
+      "2353",
+      "Battement normal"
+    ],
+    [
+      "2354",
+      "Battement normal"
+    ],
+    [
+      "2355",
+      "Battement normal"
+    ],
+    [
+      "2356",
+      "Battement normal"
+    ],
+    [
+      "2357",
+      "Battement normal"
+    ],
+    [
+      "2358",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2359",
+      "Battement normal"
+    ],
+    [
+      "2360",
+      "Battement normal"
+    ],
+    [
+      "2361",
+      "Battement normal"
+    ],
+    [
+      "2362",
+      "Battement normal"
+    ],
+    [
+      "2363",
+      "Battement normal"
+    ],
+    [
+      "2364",
+      "Battement normal"
+    ],
+    [
+      "2365",
+      "Battement normal"
+    ],
+    [
+      "2366",
+      "Battement normal"
+    ],
+    [
+      "2367",
+      "Battement normal"
+    ],
+    [
+      "2368",
+      "Battement normal"
+    ],
+    [
+      "2369",
+      "Battement normal"
+    ],
+    [
+      "2370",
+      "Battement normal"
+    ],
+    [
+      "2371",
+      "Battement normal"
+    ],
+    [
+      "2372",
+      "Battement normal"
+    ],
+    [
+      "2373",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2374",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2375",
+      "Battement normal"
+    ],
+    [
+      "2376",
+      "Battement normal"
+    ],
+    [
+      "2377",
+      "Battement normal"
+    ],
+    [
+      "2378",
+      "Battement normal"
+    ],
+    [
+      "2379",
+      "Battement normal"
+    ],
+    [
+      "2380",
+      "Battement normal"
+    ],
+    [
+      "2381",
+      "Battement normal"
+    ],
+    [
+      "2382",
+      "Battement normal"
+    ],
+    [
+      "2383",
+      "Battement normal"
+    ],
+    [
+      "2384",
+      "Battement normal"
+    ],
+    [
+      "2385",
+      "Battement normal"
+    ],
+    [
+      "2386",
+      "Battement normal"
+    ],
+    [
+      "2387",
+      "Battement normal"
+    ],
+    [
+      "2388",
+      "Battement normal"
+    ],
+    [
+      "2389",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2390",
+      "Battement normal"
+    ],
+    [
+      "2391",
+      "Battement normal"
+    ],
+    [
+      "2392",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2393",
+      "Battement normal"
+    ],
+    [
+      "2394",
+      "Battement normal"
+    ],
+    [
+      "2395",
+      "Battement normal"
+    ],
+    [
+      "2396",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2397",
+      "Battement normal"
+    ],
+    [
+      "2398",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2399",
+      "Battement normal"
+    ],
+    [
+      "2400",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2401",
+      "Battement normal"
+    ],
+    [
+      "2402",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2403",
+      "Battement normal"
+    ],
+    [
+      "2404",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2405",
+      "Battement normal"
+    ],
+    [
+      "2406",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2407",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2408",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2409",
+      "Battement normal"
+    ],
+    [
+      "2410",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2411",
+      "Battement normal"
+    ],
+    [
+      "2412",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2413",
+      "Battement normal"
+    ],
+    [
+      "2414",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2415",
+      "Battement normal"
+    ],
+    [
+      "2416",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2417",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2418",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2419",
+      "Battement normal"
+    ],
+    [
+      "2420",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2421",
+      "Battement normal"
+    ],
+    [
+      "2422",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2423",
+      "Battement normal"
+    ],
+    [
+      "2424",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2425",
+      "Battement normal"
+    ],
+    [
+      "2426",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2427",
+      "Battement normal"
+    ],
+    [
+      "2428",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2429",
+      "Battement normal"
+    ],
+    [
+      "2430",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2431",
+      "Battement normal"
+    ],
+    [
+      "2432",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2433",
+      "Battement normal"
+    ],
+    [
+      "2434",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2435",
+      "Battement normal"
+    ],
+    [
+      "2436",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2437",
+      "Battement normal"
+    ],
+    [
+      "2438",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2439",
+      "Battement normal"
+    ],
+    [
+      "2440",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2441",
+      "Battement normal"
+    ],
+    [
+      "2442",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2443",
+      "Battement normal"
+    ],
+    [
+      "2444",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2445",
+      "Battement normal"
+    ],
+    [
+      "2446",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2447",
+      "Battement normal"
+    ],
+    [
+      "2448",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2449",
+      "Battement normal"
+    ],
+    [
+      "2450",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2451",
+      "Battement normal"
+    ],
+    [
+      "2452",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2453",
+      "Battement normal"
+    ],
+    [
+      "2454",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2455",
+      "Battement normal"
+    ],
+    [
+      "2456",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2457",
+      "Battement normal"
+    ],
+    [
+      "2458",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2459",
+      "Battement normal"
+    ],
+    [
+      "2460",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2461",
+      "Battement normal"
+    ],
+    [
+      "2462",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2463",
+      "Battement normal"
+    ],
+    [
+      "2464",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2465",
+      "Battement normal"
+    ],
+    [
+      "2466",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2467",
+      "Battement normal"
+    ],
+    [
+      "2468",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2469",
+      "Battement normal"
+    ],
+    [
+      "2470",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2471",
+      "Battement normal"
+    ],
+    [
+      "2472",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2473",
+      "Battement normal"
+    ],
+    [
+      "2474",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2475",
+      "Battement normal"
+    ],
+    [
+      "2476",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2477",
+      "Battement normal"
+    ],
+    [
+      "2478",
+      "Battement normal"
+    ],
+    [
+      "2479",
+      "Battement normal"
+    ],
+    [
+      "2480",
+      "Battement normal"
+    ],
+    [
+      "2481",
+      "Battement normal"
+    ],
+    [
+      "2482",
+      "Battement normal"
+    ],
+    [
+      "2483",
+      "Battement normal"
+    ],
+    [
+      "2484",
+      "Battement normal"
+    ],
+    [
+      "2485",
+      "Battement normal"
+    ],
+    [
+      "2486",
+      "Battement normal"
+    ],
+    [
+      "2487",
+      "Battement normal"
+    ],
+    [
+      "2488",
+      "Battement normal"
+    ],
+    [
+      "2489",
+      "Battement normal"
+    ],
+    [
+      "2490",
+      "Battement normal"
+    ],
+    [
+      "2491",
+      "Battement normal"
+    ],
+    [
+      "2492",
+      "Battement normal"
+    ],
+    [
+      "2493",
+      "Battement normal"
+    ],
+    [
+      "2494",
+      "Battement normal"
+    ],
+    [
+      "2495",
+      "Battement normal"
+    ],
+    [
+      "2496",
+      "Battement normal"
+    ],
+    [
+      "2497",
+      "Battement normal"
+    ],
+    [
+      "2498",
+      "Battement normal"
+    ],
+    [
+      "2499",
+      "Battement normal"
+    ],
+    [
+      "2500",
+      "Battement normal"
+    ],
+    [
+      "2501",
+      "Battement normal"
+    ],
+    [
+      "2502",
+      "Battement normal"
+    ],
+    [
+      "2503",
+      "Battement normal"
+    ],
+    [
+      "2504",
+      "Battement normal"
+    ],
+    [
+      "2505",
+      "Battement normal"
+    ],
+    [
+      "2506",
+      "Battement normal"
+    ],
+    [
+      "2507",
+      "Battement normal"
+    ],
+    [
+      "2508",
+      "Battement normal"
+    ],
+    [
+      "2509",
+      "Battement normal"
+    ],
+    [
+      "2510",
+      "Battement normal"
+    ],
+    [
+      "2511",
+      "Battement normal"
+    ],
+    [
+      "2512",
+      "Battement normal"
+    ],
+    [
+      "2513",
+      "Battement normal"
+    ],
+    [
+      "2514",
+      "Battement normal"
+    ],
+    [
+      "2515",
+      "Battement normal"
+    ],
+    [
+      "2516",
+      "Battement normal"
+    ],
+    [
+      "2517",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2518",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2519",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2520",
+      "Battement normal"
+    ],
+    [
+      "2521",
+      "Battement normal"
+    ],
+    [
+      "2522",
+      "Battement normal"
+    ],
+    [
+      "2523",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2524",
+      "Battement normal"
+    ],
+    [
+      "2525",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2526",
+      "Battement normal"
+    ],
+    [
+      "2527",
+      "Battement normal"
+    ],
+    [
+      "2528",
+      "Battement normal"
+    ],
+    [
+      "2529",
+      "Battement normal"
+    ],
+    [
+      "2530",
+      "Battement normal"
+    ],
+    [
+      "2531",
+      "Battement normal"
+    ],
+    [
+      "2532",
+      "Battement normal"
+    ],
+    [
+      "2533",
+      "Battement normal"
+    ],
+    [
+      "2534",
+      "Battement normal"
+    ],
+    [
+      "2535",
+      "Battement normal"
+    ],
+    [
+      "2536",
+      "Battement normal"
+    ],
+    [
+      "2537",
+      "Battement normal"
+    ],
+    [
+      "2538",
+      "Battement normal"
+    ],
+    [
+      "2539",
+      "Battement normal"
+    ],
+    [
+      "2540",
+      "Battement normal"
+    ],
+    [
+      "2541",
+      "Battement normal"
+    ],
+    [
+      "2542",
+      "Battement normal"
+    ],
+    [
+      "2543",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2544",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2545",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2546",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2547",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2548",
+      "Battement normal"
+    ],
+    [
+      "2549",
+      "Battement normal"
+    ],
+    [
+      "2550",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2551",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2552",
+      "Battement normal"
+    ],
+    [
+      "2553",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2554",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2555",
+      "Battement normal"
+    ],
+    [
+      "2556",
+      "Battement normal"
+    ],
+    [
+      "2557",
+      "Battement normal"
+    ],
+    [
+      "2558",
+      "Battement normal"
+    ],
+    [
+      "2559",
+      "Battement normal"
+    ],
+    [
+      "2560",
+      "Battement normal"
+    ],
+    [
+      "2561",
+      "Battement normal"
+    ],
+    [
+      "2562",
+      "Battement normal"
+    ],
+    [
+      "2563",
+      "Battement normal"
+    ],
+    [
+      "2564",
+      "Battement normal"
+    ],
+    [
+      "2565",
+      "Battement normal"
+    ],
+    [
+      "2566",
+      "Battement normal"
+    ],
+    [
+      "2567",
+      "Battement normal"
+    ],
+    [
+      "2568",
+      "Battement normal"
+    ],
+    [
+      "2569",
+      "Battement normal"
+    ],
+    [
+      "2570",
+      "Battement normal"
+    ],
+    [
+      "2571",
+      "Battement normal"
+    ],
+    [
+      "2572",
+      "Battement normal"
+    ],
+    [
+      "2573",
+      "Battement normal"
+    ],
+    [
+      "2574",
+      "Battement normal"
+    ],
+    [
+      "2575",
+      "Battement normal"
+    ],
+    [
+      "2576",
+      "Battement normal"
+    ],
+    [
+      "2577",
+      "Battement normal"
+    ],
+    [
+      "2578",
+      "Battement normal"
+    ],
+    [
+      "2579",
+      "Battement normal"
+    ],
+    [
+      "2580",
+      "Battement normal"
+    ],
+    [
+      "2581",
+      "Battement normal"
+    ],
+    [
+      "2582",
+      "Battement normal"
+    ],
+    [
+      "2583",
+      "Battement normal"
+    ],
+    [
+      "2584",
+      "Battement normal"
+    ],
+    [
+      "2585",
+      "Battement normal"
+    ],
+    [
+      "2586",
+      "Battement normal"
+    ],
+    [
+      "2587",
+      "Battement normal"
+    ],
+    [
+      "2588",
+      "Battement normal"
+    ],
+    [
+      "2589",
+      "Battement normal"
+    ],
+    [
+      "2590",
+      "Battement normal"
+    ],
+    [
+      "2591",
+      "Battement normal"
+    ],
+    [
+      "2592",
+      "Battement normal"
+    ],
+    [
+      "2593",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2594",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2595",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2596",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2597",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2598",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2599",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2600",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2601",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "2602",
+      "Battement normal"
+    ],
+    [
+      "2603",
+      "Battement normal"
+    ],
+    [
+      "2604",
+      "Battement normal"
+    ],
+    [
+      "2605",
+      "Battement normal"
+    ],
+    [
+      "2606",
+      "Battement normal"
+    ],
+    [
+      "2607",
+      "Battement normal"
+    ],
+    [
+      "2608",
+      "Battement normal"
+    ],
+    [
+      "2609",
+      "Battement de fusion"
+    ]
+  ],
+  "analysis_timestamp": "2025-07-03T13:06:44.177400"
+}

@@ -1,0 +1,7468 @@
+{
+  "patient_id": 1,
+  "ecg_id": 4,
+  "nombre_de_battements": 1865,
+  "beatsPrediction": [
+    [
+      "1",
+      "Battement normal"
+    ],
+    [
+      "2",
+      "Battement normal"
+    ],
+    [
+      "3",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "4",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "5",
+      "Battement normal"
+    ],
+    [
+      "6",
+      "Battement normal"
+    ],
+    [
+      "7",
+      "Battement normal"
+    ],
+    [
+      "8",
+      "Battement normal"
+    ],
+    [
+      "9",
+      "Battement normal"
+    ],
+    [
+      "10",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "11",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "12",
+      "Battement normal"
+    ],
+    [
+      "13",
+      "Battement normal"
+    ],
+    [
+      "14",
+      "Battement normal"
+    ],
+    [
+      "15",
+      "Battement normal"
+    ],
+    [
+      "16",
+      "Battement normal"
+    ],
+    [
+      "17",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "18",
+      "Battement normal"
+    ],
+    [
+      "19",
+      "Battement normal"
+    ],
+    [
+      "20",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "21",
+      "Battement normal"
+    ],
+    [
+      "22",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "23",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "24",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "25",
+      "Battement normal"
+    ],
+    [
+      "26",
+      "Battement normal"
+    ],
+    [
+      "27",
+      "Battement normal"
+    ],
+    [
+      "28",
+      "Battement normal"
+    ],
+    [
+      "29",
+      "Battement normal"
+    ],
+    [
+      "30",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "31",
+      "Battement normal"
+    ],
+    [
+      "32",
+      "Battement normal"
+    ],
+    [
+      "33",
+      "Battement normal"
+    ],
+    [
+      "34",
+      "Battement normal"
+    ],
+    [
+      "35",
+      "Battement normal"
+    ],
+    [
+      "36",
+      "Battement normal"
+    ],
+    [
+      "37",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "38",
+      "Battement normal"
+    ],
+    [
+      "39",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "40",
+      "Battement normal"
+    ],
+    [
+      "41",
+      "Battement normal"
+    ],
+    [
+      "42",
+      "Battement normal"
+    ],
+    [
+      "43",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "44",
+      "Battement normal"
+    ],
+    [
+      "45",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "46",
+      "Battement normal"
+    ],
+    [
+      "47",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "48",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "49",
+      "Battement normal"
+    ],
+    [
+      "50",
+      "Battement normal"
+    ],
+    [
+      "51",
+      "Battement normal"
+    ],
+    [
+      "52",
+      "Battement normal"
+    ],
+    [
+      "53",
+      "Battement normal"
+    ],
+    [
+      "54",
+      "Battement normal"
+    ],
+    [
+      "55",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "56",
+      "Battement normal"
+    ],
+    [
+      "57",
+      "Battement normal"
+    ],
+    [
+      "58",
+      "Battement normal"
+    ],
+    [
+      "59",
+      "Battement normal"
+    ],
+    [
+      "60",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "61",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "62",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "63",
+      "Battement normal"
+    ],
+    [
+      "64",
+      "Battement normal"
+    ],
+    [
+      "65",
+      "Battement normal"
+    ],
+    [
+      "66",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "67",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "68",
+      "Battement normal"
+    ],
+    [
+      "69",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "70",
+      "Battement normal"
+    ],
+    [
+      "71",
+      "Battement normal"
+    ],
+    [
+      "72",
+      "Battement normal"
+    ],
+    [
+      "73",
+      "Battement normal"
+    ],
+    [
+      "74",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "75",
+      "Battement normal"
+    ],
+    [
+      "76",
+      "Battement normal"
+    ],
+    [
+      "77",
+      "Battement normal"
+    ],
+    [
+      "78",
+      "Battement normal"
+    ],
+    [
+      "79",
+      "Battement normal"
+    ],
+    [
+      "80",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "81",
+      "Battement normal"
+    ],
+    [
+      "82",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "83",
+      "Battement normal"
+    ],
+    [
+      "84",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "85",
+      "Battement normal"
+    ],
+    [
+      "86",
+      "Battement normal"
+    ],
+    [
+      "87",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "88",
+      "Battement normal"
+    ],
+    [
+      "89",
+      "Battement normal"
+    ],
+    [
+      "90",
+      "Battement normal"
+    ],
+    [
+      "91",
+      "Battement normal"
+    ],
+    [
+      "92",
+      "Battement normal"
+    ],
+    [
+      "93",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "94",
+      "Battement normal"
+    ],
+    [
+      "95",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "96",
+      "Battement normal"
+    ],
+    [
+      "97",
+      "Battement normal"
+    ],
+    [
+      "98",
+      "Battement normal"
+    ],
+    [
+      "99",
+      "Battement normal"
+    ],
+    [
+      "100",
+      "Battement normal"
+    ],
+    [
+      "101",
+      "Battement normal"
+    ],
+    [
+      "102",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "103",
+      "Battement normal"
+    ],
+    [
+      "104",
+      "Battement normal"
+    ],
+    [
+      "105",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "106",
+      "Battement normal"
+    ],
+    [
+      "107",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "108",
+      "Battement normal"
+    ],
+    [
+      "109",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "110",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "111",
+      "Battement normal"
+    ],
+    [
+      "112",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "113",
+      "Battement normal"
+    ],
+    [
+      "114",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "115",
+      "Battement normal"
+    ],
+    [
+      "116",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "117",
+      "Battement normal"
+    ],
+    [
+      "118",
+      "Battement normal"
+    ],
+    [
+      "119",
+      "Battement normal"
+    ],
+    [
+      "120",
+      "Battement normal"
+    ],
+    [
+      "121",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "122",
+      "Battement normal"
+    ],
+    [
+      "123",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "124",
+      "Battement normal"
+    ],
+    [
+      "125",
+      "Battement normal"
+    ],
+    [
+      "126",
+      "Battement normal"
+    ],
+    [
+      "127",
+      "Battement normal"
+    ],
+    [
+      "128",
+      "Battement normal"
+    ],
+    [
+      "129",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "130",
+      "Battement normal"
+    ],
+    [
+      "131",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "132",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "133",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "134",
+      "Battement normal"
+    ],
+    [
+      "135",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "136",
+      "Battement normal"
+    ],
+    [
+      "137",
+      "Battement normal"
+    ],
+    [
+      "138",
+      "Battement normal"
+    ],
+    [
+      "139",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "140",
+      "Battement normal"
+    ],
+    [
+      "141",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "142",
+      "Battement normal"
+    ],
+    [
+      "143",
+      "Battement normal"
+    ],
+    [
+      "144",
+      "Battement normal"
+    ],
+    [
+      "145",
+      "Battement normal"
+    ],
+    [
+      "146",
+      "Battement normal"
+    ],
+    [
+      "147",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "148",
+      "Battement normal"
+    ],
+    [
+      "149",
+      "Battement normal"
+    ],
+    [
+      "150",
+      "Battement normal"
+    ],
+    [
+      "151",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "152",
+      "Battement normal"
+    ],
+    [
+      "153",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "154",
+      "Battement normal"
+    ],
+    [
+      "155",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "156",
+      "Battement normal"
+    ],
+    [
+      "157",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "158",
+      "Battement normal"
+    ],
+    [
+      "159",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "160",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "161",
+      "Battement normal"
+    ],
+    [
+      "162",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "163",
+      "Battement normal"
+    ],
+    [
+      "164",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "165",
+      "Battement normal"
+    ],
+    [
+      "166",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "167",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "168",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "169",
+      "Battement normal"
+    ],
+    [
+      "170",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "171",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "172",
+      "Battement normal"
+    ],
+    [
+      "173",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "174",
+      "Battement normal"
+    ],
+    [
+      "175",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "176",
+      "Battement normal"
+    ],
+    [
+      "177",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "178",
+      "Battement normal"
+    ],
+    [
+      "179",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "180",
+      "Battement normal"
+    ],
+    [
+      "181",
+      "Battement normal"
+    ],
+    [
+      "182",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "183",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "184",
+      "Battement normal"
+    ],
+    [
+      "185",
+      "Battement normal"
+    ],
+    [
+      "186",
+      "Battement normal"
+    ],
+    [
+      "187",
+      "Battement normal"
+    ],
+    [
+      "188",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "189",
+      "Battement normal"
+    ],
+    [
+      "190",
+      "Battement normal"
+    ],
+    [
+      "191",
+      "Battement normal"
+    ],
+    [
+      "192",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "193",
+      "Battement normal"
+    ],
+    [
+      "194",
+      "Battement normal"
+    ],
+    [
+      "195",
+      "Battement normal"
+    ],
+    [
+      "196",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "197",
+      "Battement normal"
+    ],
+    [
+      "198",
+      "Battement normal"
+    ],
+    [
+      "199",
+      "Battement normal"
+    ],
+    [
+      "200",
+      "Battement normal"
+    ],
+    [
+      "201",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "202",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "203",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "204",
+      "Battement normal"
+    ],
+    [
+      "205",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "206",
+      "Battement normal"
+    ],
+    [
+      "207",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "208",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "209",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "210",
+      "Battement normal"
+    ],
+    [
+      "211",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "212",
+      "Battement normal"
+    ],
+    [
+      "213",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "214",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "215",
+      "Battement normal"
+    ],
+    [
+      "216",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "217",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "218",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "219",
+      "Battement normal"
+    ],
+    [
+      "220",
+      "Battement normal"
+    ],
+    [
+      "221",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "222",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "223",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "224",
+      "Battement normal"
+    ],
+    [
+      "225",
+      "Battement normal"
+    ],
+    [
+      "226",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "227",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "228",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "229",
+      "Battement normal"
+    ],
+    [
+      "230",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "231",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "232",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "233",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "234",
+      "Battement normal"
+    ],
+    [
+      "235",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "236",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "237",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "238",
+      "Battement normal"
+    ],
+    [
+      "239",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "240",
+      "Battement normal"
+    ],
+    [
+      "241",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "242",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "243",
+      "Battement normal"
+    ],
+    [
+      "244",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "245",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "246",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "247",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "248",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "249",
+      "Battement normal"
+    ],
+    [
+      "250",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "251",
+      "Battement normal"
+    ],
+    [
+      "252",
+      "Battement normal"
+    ],
+    [
+      "253",
+      "Battement normal"
+    ],
+    [
+      "254",
+      "Battement normal"
+    ],
+    [
+      "255",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "256",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "257",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "258",
+      "Battement normal"
+    ],
+    [
+      "259",
+      "Battement normal"
+    ],
+    [
+      "260",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "261",
+      "Battement normal"
+    ],
+    [
+      "262",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "263",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "264",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "265",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "266",
+      "Battement normal"
+    ],
+    [
+      "267",
+      "Battement normal"
+    ],
+    [
+      "268",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "269",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "270",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "271",
+      "Battement normal"
+    ],
+    [
+      "272",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "273",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "274",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "275",
+      "Battement normal"
+    ],
+    [
+      "276",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "277",
+      "Battement normal"
+    ],
+    [
+      "278",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "279",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "280",
+      "Battement normal"
+    ],
+    [
+      "281",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "282",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "283",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "284",
+      "Battement normal"
+    ],
+    [
+      "285",
+      "Battement normal"
+    ],
+    [
+      "286",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "287",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "288",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "289",
+      "Battement normal"
+    ],
+    [
+      "290",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "291",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "292",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "293",
+      "Battement normal"
+    ],
+    [
+      "294",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "295",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "296",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "297",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "298",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "299",
+      "Battement normal"
+    ],
+    [
+      "300",
+      "Battement normal"
+    ],
+    [
+      "301",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "302",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "303",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "304",
+      "Battement normal"
+    ],
+    [
+      "305",
+      "Battement normal"
+    ],
+    [
+      "306",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "307",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "308",
+      "Battement normal"
+    ],
+    [
+      "309",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "310",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "311",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "312",
+      "Battement normal"
+    ],
+    [
+      "313",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "314",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "315",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "316",
+      "Battement normal"
+    ],
+    [
+      "317",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "318",
+      "Battement normal"
+    ],
+    [
+      "319",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "320",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "321",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "322",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "323",
+      "Battement normal"
+    ],
+    [
+      "324",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "325",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "326",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "327",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "328",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "329",
+      "Battement normal"
+    ],
+    [
+      "330",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "331",
+      "Battement normal"
+    ],
+    [
+      "332",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "333",
+      "Battement normal"
+    ],
+    [
+      "334",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "335",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "336",
+      "Battement normal"
+    ],
+    [
+      "337",
+      "Battement normal"
+    ],
+    [
+      "338",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "339",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "340",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "341",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "342",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "343",
+      "Battement normal"
+    ],
+    [
+      "344",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "345",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "346",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "347",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "348",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "349",
+      "Battement normal"
+    ],
+    [
+      "350",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "351",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "352",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "353",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "354",
+      "Battement normal"
+    ],
+    [
+      "355",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "356",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "357",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "358",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "359",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "360",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "361",
+      "Battement normal"
+    ],
+    [
+      "362",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "363",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "364",
+      "Battement normal"
+    ],
+    [
+      "365",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "366",
+      "Battement normal"
+    ],
+    [
+      "367",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "368",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "369",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "370",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "371",
+      "Battement normal"
+    ],
+    [
+      "372",
+      "Battement normal"
+    ],
+    [
+      "373",
+      "Battement normal"
+    ],
+    [
+      "374",
+      "Battement normal"
+    ],
+    [
+      "375",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "376",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "377",
+      "Battement normal"
+    ],
+    [
+      "378",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "379",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "380",
+      "Battement normal"
+    ],
+    [
+      "381",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "382",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "383",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "384",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "385",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "386",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "387",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "388",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "389",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "390",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "391",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "392",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "393",
+      "Battement normal"
+    ],
+    [
+      "394",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "395",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "396",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "397",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "398",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "399",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "400",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "401",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "402",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "403",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "404",
+      "Battement normal"
+    ],
+    [
+      "405",
+      "Battement normal"
+    ],
+    [
+      "406",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "407",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "408",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "409",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "410",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "411",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "412",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "413",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "414",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "415",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "416",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "417",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "418",
+      "Battement normal"
+    ],
+    [
+      "419",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "420",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "421",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "422",
+      "Battement normal"
+    ],
+    [
+      "423",
+      "Battement normal"
+    ],
+    [
+      "424",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "425",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "426",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "427",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "428",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "429",
+      "Battement normal"
+    ],
+    [
+      "430",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "431",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "432",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "433",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "434",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "435",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "436",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "437",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "438",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "439",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "440",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "441",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "442",
+      "Battement normal"
+    ],
+    [
+      "443",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "444",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "445",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "446",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "447",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "448",
+      "Battement normal"
+    ],
+    [
+      "449",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "450",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "451",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "452",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "453",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "454",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "455",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "456",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "457",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "458",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "459",
+      "Battement normal"
+    ],
+    [
+      "460",
+      "Battement normal"
+    ],
+    [
+      "461",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "462",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "463",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "464",
+      "Battement normal"
+    ],
+    [
+      "465",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "466",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "467",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "468",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "469",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "470",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "471",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "472",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "473",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "474",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "475",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "476",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "477",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "478",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "479",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "480",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "481",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "482",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "483",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "484",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "485",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "486",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "487",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "488",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "489",
+      "Battement normal"
+    ],
+    [
+      "490",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "491",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "492",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "493",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "494",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "495",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "496",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "497",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "498",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "499",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "500",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "501",
+      "Battement normal"
+    ],
+    [
+      "502",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "503",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "504",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "505",
+      "Battement normal"
+    ],
+    [
+      "506",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "507",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "508",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "509",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "510",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "511",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "512",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "513",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "514",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "515",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "516",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "517",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "518",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "519",
+      "Battement normal"
+    ],
+    [
+      "520",
+      "Battement normal"
+    ],
+    [
+      "521",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "522",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "523",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "524",
+      "Battement normal"
+    ],
+    [
+      "525",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "526",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "527",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "528",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "529",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "530",
+      "Battement normal"
+    ],
+    [
+      "531",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "532",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "533",
+      "Battement normal"
+    ],
+    [
+      "534",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "535",
+      "Battement normal"
+    ],
+    [
+      "536",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "537",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "538",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "539",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "540",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "541",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "542",
+      "Battement normal"
+    ],
+    [
+      "543",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "544",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "545",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "546",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "547",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "548",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "549",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "550",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "551",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "552",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "553",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "554",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "555",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "556",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "557",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "558",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "559",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "560",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "561",
+      "Battement normal"
+    ],
+    [
+      "562",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "563",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "564",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "565",
+      "Battement normal"
+    ],
+    [
+      "566",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "567",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "568",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "569",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "570",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "571",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "572",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "573",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "574",
+      "Battement normal"
+    ],
+    [
+      "575",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "576",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "577",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "578",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "579",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "580",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "581",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "582",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "583",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "584",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "585",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "586",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "587",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "588",
+      "Battement normal"
+    ],
+    [
+      "589",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "590",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "591",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "592",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "593",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "594",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "595",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "596",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "597",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "598",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "599",
+      "Battement normal"
+    ],
+    [
+      "600",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "601",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "602",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "603",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "604",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "605",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "606",
+      "Battement normal"
+    ],
+    [
+      "607",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "608",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "609",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "610",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "611",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "612",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "613",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "614",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "615",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "616",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "617",
+      "Battement normal"
+    ],
+    [
+      "618",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "619",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "620",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "621",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "622",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "623",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "624",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "625",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "626",
+      "Battement normal"
+    ],
+    [
+      "627",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "628",
+      "Battement normal"
+    ],
+    [
+      "629",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "630",
+      "Battement normal"
+    ],
+    [
+      "631",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "632",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "633",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "634",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "635",
+      "Battement normal"
+    ],
+    [
+      "636",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "637",
+      "Battement normal"
+    ],
+    [
+      "638",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "639",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "640",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "641",
+      "Battement normal"
+    ],
+    [
+      "642",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "643",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "644",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "645",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "646",
+      "Battement normal"
+    ],
+    [
+      "647",
+      "Battement normal"
+    ],
+    [
+      "648",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "649",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "650",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "651",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "652",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "653",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "654",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "655",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "656",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "657",
+      "Battement normal"
+    ],
+    [
+      "658",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "659",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "660",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "661",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "662",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "663",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "664",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "665",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "666",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "667",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "668",
+      "Battement normal"
+    ],
+    [
+      "669",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "670",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "671",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "672",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "673",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "674",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "675",
+      "Battement normal"
+    ],
+    [
+      "676",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "677",
+      "Battement normal"
+    ],
+    [
+      "678",
+      "Battement normal"
+    ],
+    [
+      "679",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "680",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "681",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "682",
+      "Battement normal"
+    ],
+    [
+      "683",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "684",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "685",
+      "Battement normal"
+    ],
+    [
+      "686",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "687",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "688",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "689",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "690",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "691",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "692",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "693",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "694",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "695",
+      "Battement normal"
+    ],
+    [
+      "696",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "697",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "698",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "699",
+      "Battement normal"
+    ],
+    [
+      "700",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "701",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "702",
+      "Battement normal"
+    ],
+    [
+      "703",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "704",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "705",
+      "Battement normal"
+    ],
+    [
+      "706",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "707",
+      "Battement normal"
+    ],
+    [
+      "708",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "709",
+      "Battement normal"
+    ],
+    [
+      "710",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "711",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "712",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "713",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "714",
+      "Battement normal"
+    ],
+    [
+      "715",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "716",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "717",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "718",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "719",
+      "Battement normal"
+    ],
+    [
+      "720",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "721",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "722",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "723",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "724",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "725",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "726",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "727",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "728",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "729",
+      "Battement normal"
+    ],
+    [
+      "730",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "731",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "732",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "733",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "734",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "735",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "736",
+      "Battement normal"
+    ],
+    [
+      "737",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "738",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "739",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "740",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "741",
+      "Battement normal"
+    ],
+    [
+      "742",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "743",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "744",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "745",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "746",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "747",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "748",
+      "Battement normal"
+    ],
+    [
+      "749",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "750",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "751",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "752",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "753",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "754",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "755",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "756",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "757",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "758",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "759",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "760",
+      "Battement normal"
+    ],
+    [
+      "761",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "762",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "763",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "764",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "765",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "766",
+      "Battement normal"
+    ],
+    [
+      "767",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "768",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "769",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "770",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "771",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "772",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "773",
+      "Battement normal"
+    ],
+    [
+      "774",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "775",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "776",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "777",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "778",
+      "Battement normal"
+    ],
+    [
+      "779",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "780",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "781",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "782",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "783",
+      "Battement normal"
+    ],
+    [
+      "784",
+      "Battement normal"
+    ],
+    [
+      "785",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "786",
+      "Battement normal"
+    ],
+    [
+      "787",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "788",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "789",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "790",
+      "Battement normal"
+    ],
+    [
+      "791",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "792",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "793",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "794",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "795",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "796",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "797",
+      "Battement normal"
+    ],
+    [
+      "798",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "799",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "800",
+      "Battement normal"
+    ],
+    [
+      "801",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "802",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "803",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "804",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "805",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "806",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "807",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "808",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "809",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "810",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "811",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "812",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "813",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "814",
+      "Battement normal"
+    ],
+    [
+      "815",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "816",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "817",
+      "Battement normal"
+    ],
+    [
+      "818",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "819",
+      "Battement normal"
+    ],
+    [
+      "820",
+      "Battement normal"
+    ],
+    [
+      "821",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "822",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "823",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "824",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "825",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "826",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "827",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "828",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "829",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "830",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "831",
+      "Battement normal"
+    ],
+    [
+      "832",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "833",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "834",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "835",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "836",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "837",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "838",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "839",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "840",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "841",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "842",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "843",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "844",
+      "Battement normal"
+    ],
+    [
+      "845",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "846",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "847",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "848",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "849",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "850",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "851",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "852",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "853",
+      "Battement normal"
+    ],
+    [
+      "854",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "855",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "856",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "857",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "858",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "859",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "860",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "861",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "862",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "863",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "864",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "865",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "866",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "867",
+      "Battement normal"
+    ],
+    [
+      "868",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "869",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "870",
+      "Battement normal"
+    ],
+    [
+      "871",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "872",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "873",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "874",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "875",
+      "Battement normal"
+    ],
+    [
+      "876",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "877",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "878",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "879",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "880",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "881",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "882",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "883",
+      "Battement normal"
+    ],
+    [
+      "884",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "885",
+      "Battement normal"
+    ],
+    [
+      "886",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "887",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "888",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "889",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "890",
+      "Battement normal"
+    ],
+    [
+      "891",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "892",
+      "Battement normal"
+    ],
+    [
+      "893",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "894",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "895",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "896",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "897",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "898",
+      "Battement normal"
+    ],
+    [
+      "899",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "900",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "901",
+      "Battement normal"
+    ],
+    [
+      "902",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "903",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "904",
+      "Battement normal"
+    ],
+    [
+      "905",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "906",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "907",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "908",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "909",
+      "Battement normal"
+    ],
+    [
+      "910",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "911",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "912",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "913",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "914",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "915",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "916",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "917",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "918",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "919",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "920",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "921",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "922",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "923",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "924",
+      "Battement normal"
+    ],
+    [
+      "925",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "926",
+      "Battement normal"
+    ],
+    [
+      "927",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "928",
+      "Battement normal"
+    ],
+    [
+      "929",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "930",
+      "Battement normal"
+    ],
+    [
+      "931",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "932",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "933",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "934",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "935",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "936",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "937",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "938",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "939",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "940",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "941",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "942",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "943",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "944",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "945",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "946",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "947",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "948",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "949",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "950",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "951",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "952",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "953",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "954",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "955",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "956",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "957",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "958",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "959",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "960",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "961",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "962",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "963",
+      "Battement normal"
+    ],
+    [
+      "964",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "965",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "966",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "967",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "968",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "969",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "970",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "971",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "972",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "973",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "974",
+      "Battement normal"
+    ],
+    [
+      "975",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "976",
+      "Battement normal"
+    ],
+    [
+      "977",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "978",
+      "Battement normal"
+    ],
+    [
+      "979",
+      "Battement normal"
+    ],
+    [
+      "980",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "981",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "982",
+      "Battement normal"
+    ],
+    [
+      "983",
+      "Battement normal"
+    ],
+    [
+      "984",
+      "Battement normal"
+    ],
+    [
+      "985",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "986",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "987",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "988",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "989",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "990",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "991",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "992",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "993",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "994",
+      "Battement normal"
+    ],
+    [
+      "995",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "996",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "997",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "998",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "999",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1000",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1001",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1002",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1003",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1004",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1005",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1006",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1007",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1008",
+      "Battement normal"
+    ],
+    [
+      "1009",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1010",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1011",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1012",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1013",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1014",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1015",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1016",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1017",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1018",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1019",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1020",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1021",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1022",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1023",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1024",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1025",
+      "Battement normal"
+    ],
+    [
+      "1026",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1027",
+      "Battement normal"
+    ],
+    [
+      "1028",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1029",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1030",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1031",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1032",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1033",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1034",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1035",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1036",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1037",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1038",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1039",
+      "Battement normal"
+    ],
+    [
+      "1040",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1041",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1042",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1043",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1044",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1045",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1046",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1047",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1048",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1049",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1050",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1051",
+      "Battement normal"
+    ],
+    [
+      "1052",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1053",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1054",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1055",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1056",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1057",
+      "Battement normal"
+    ],
+    [
+      "1058",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1059",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1060",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1061",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1062",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1063",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1064",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1065",
+      "Battement normal"
+    ],
+    [
+      "1066",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1067",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1068",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1069",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1070",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1071",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1072",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1073",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1074",
+      "Battement normal"
+    ],
+    [
+      "1075",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1076",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1077",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1078",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1079",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1080",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1081",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1082",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1083",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1084",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1085",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1086",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1087",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1088",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1089",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1090",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1091",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1092",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1093",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1094",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1095",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1096",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1097",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1098",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1099",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1100",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1101",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1102",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1103",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1104",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1105",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1106",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1107",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1108",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1109",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1110",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1111",
+      "Battement normal"
+    ],
+    [
+      "1112",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1113",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1114",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1115",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1116",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1117",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1118",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1119",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1120",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1121",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1122",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1123",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1124",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1125",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1126",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1127",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1128",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1129",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1130",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1131",
+      "Battement normal"
+    ],
+    [
+      "1132",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1133",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1134",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1135",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1136",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1137",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1138",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1139",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1140",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1141",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1142",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1143",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1144",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1145",
+      "Battement normal"
+    ],
+    [
+      "1146",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1147",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1148",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1149",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1150",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1151",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1152",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1153",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1154",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1155",
+      "Battement normal"
+    ],
+    [
+      "1156",
+      "Battement normal"
+    ],
+    [
+      "1157",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1158",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1159",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1160",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1161",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1162",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1163",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1164",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1165",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1166",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1167",
+      "Battement normal"
+    ],
+    [
+      "1168",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1169",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1170",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1171",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1172",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1173",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1174",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1175",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1176",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1177",
+      "Battement normal"
+    ],
+    [
+      "1178",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1179",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1180",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1181",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1182",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1183",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1184",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1185",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1186",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1187",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1188",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1189",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1190",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1191",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1192",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1193",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1194",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1195",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1196",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1197",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1198",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1199",
+      "Battement normal"
+    ],
+    [
+      "1200",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1201",
+      "Battement normal"
+    ],
+    [
+      "1202",
+      "Battement normal"
+    ],
+    [
+      "1203",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1204",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1205",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1206",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1207",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1208",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1209",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1210",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1211",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1212",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1213",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1214",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1215",
+      "Battement normal"
+    ],
+    [
+      "1216",
+      "Battement normal"
+    ],
+    [
+      "1217",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1218",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1219",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1220",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1221",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1222",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1223",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1224",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1225",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1226",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1227",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1228",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1229",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1230",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1231",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1232",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1233",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1234",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1235",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1236",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1237",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1238",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1239",
+      "Battement normal"
+    ],
+    [
+      "1240",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1241",
+      "Battement normal"
+    ],
+    [
+      "1242",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1243",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1244",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1245",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1246",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1247",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1248",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1249",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1250",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1251",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1252",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1253",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1254",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1255",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1256",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1257",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1258",
+      "Battement normal"
+    ],
+    [
+      "1259",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1260",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1261",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1262",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1263",
+      "Battement normal"
+    ],
+    [
+      "1264",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1265",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1266",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1267",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1268",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1269",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1270",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1271",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1272",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1273",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1274",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1275",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1276",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1277",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1278",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1279",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1280",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1281",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1282",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1283",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1284",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1285",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1286",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1287",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1288",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1289",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1290",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1291",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1292",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1293",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1294",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1295",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1296",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1297",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1298",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1299",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1300",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1301",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1302",
+      "Battement normal"
+    ],
+    [
+      "1303",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1304",
+      "Battement normal"
+    ],
+    [
+      "1305",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1306",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1307",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1308",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1309",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1310",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1311",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1312",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1313",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1314",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1315",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1316",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1317",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1318",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1319",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1320",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1321",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1322",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1323",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1324",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1325",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1326",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1327",
+      "Battement normal"
+    ],
+    [
+      "1328",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1329",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1330",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1331",
+      "Battement normal"
+    ],
+    [
+      "1332",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1333",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1334",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1335",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1336",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1337",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1338",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1339",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1340",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1341",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1342",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1343",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1344",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1345",
+      "Battement normal"
+    ],
+    [
+      "1346",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1347",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1348",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1349",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1350",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1351",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1352",
+      "Battement normal"
+    ],
+    [
+      "1353",
+      "Battement normal"
+    ],
+    [
+      "1354",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1355",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1356",
+      "Battement normal"
+    ],
+    [
+      "1357",
+      "Battement normal"
+    ],
+    [
+      "1358",
+      "Battement normal"
+    ],
+    [
+      "1359",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1360",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1361",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1362",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1363",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1364",
+      "Battement normal"
+    ],
+    [
+      "1365",
+      "Battement normal"
+    ],
+    [
+      "1366",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1367",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1368",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1369",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1370",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1371",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1372",
+      "Battement normal"
+    ],
+    [
+      "1373",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1374",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1375",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1376",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1377",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1378",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1379",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1380",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1381",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1382",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1383",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1384",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1385",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1386",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1387",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1388",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1389",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1390",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1391",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1392",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1393",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1394",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1395",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1396",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1397",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1398",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1399",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1400",
+      "Battement normal"
+    ],
+    [
+      "1401",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1402",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1403",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1404",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1405",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1406",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1407",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1408",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1409",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1410",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1411",
+      "Battement normal"
+    ],
+    [
+      "1412",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1413",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1414",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1415",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1416",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1417",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1418",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1419",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1420",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1421",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1422",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1423",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1424",
+      "Battement normal"
+    ],
+    [
+      "1425",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1426",
+      "Battement normal"
+    ],
+    [
+      "1427",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1428",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1429",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1430",
+      "Battement normal"
+    ],
+    [
+      "1431",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1432",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1433",
+      "Battement normal"
+    ],
+    [
+      "1434",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1435",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1436",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1437",
+      "Battement normal"
+    ],
+    [
+      "1438",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1439",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1440",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1441",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1442",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1443",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1444",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1445",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1446",
+      "Battement normal"
+    ],
+    [
+      "1447",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1448",
+      "Battement normal"
+    ],
+    [
+      "1449",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1450",
+      "Battement normal"
+    ],
+    [
+      "1451",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1452",
+      "Battement normal"
+    ],
+    [
+      "1453",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1454",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1455",
+      "Battement normal"
+    ],
+    [
+      "1456",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1457",
+      "Battement normal"
+    ],
+    [
+      "1458",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1459",
+      "Battement normal"
+    ],
+    [
+      "1460",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1461",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1462",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1463",
+      "Battement normal"
+    ],
+    [
+      "1464",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1465",
+      "Battement normal"
+    ],
+    [
+      "1466",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1467",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1468",
+      "Battement normal"
+    ],
+    [
+      "1469",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1470",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1471",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1472",
+      "Battement normal"
+    ],
+    [
+      "1473",
+      "Battement normal"
+    ],
+    [
+      "1474",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1475",
+      "Battement normal"
+    ],
+    [
+      "1476",
+      "Battement normal"
+    ],
+    [
+      "1477",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1478",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1479",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1480",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1481",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1482",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1483",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1484",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1485",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1486",
+      "Battement normal"
+    ],
+    [
+      "1487",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1488",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1489",
+      "Battement normal"
+    ],
+    [
+      "1490",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1491",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1492",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1493",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1494",
+      "Battement normal"
+    ],
+    [
+      "1495",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1496",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1497",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1498",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1499",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1500",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1501",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1502",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1503",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1504",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1505",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1506",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1507",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1508",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1509",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1510",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1511",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1512",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1513",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1514",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1515",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1516",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1517",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1518",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1519",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1520",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1521",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1522",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1523",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1524",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1525",
+      "Battement normal"
+    ],
+    [
+      "1526",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1527",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1528",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1529",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1530",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1531",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1532",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1533",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1534",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1535",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1536",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1537",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1538",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1539",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1540",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1541",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1542",
+      "Battement normal"
+    ],
+    [
+      "1543",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1544",
+      "Battement normal"
+    ],
+    [
+      "1545",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1546",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1547",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1548",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1549",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1550",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1551",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1552",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1553",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1554",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1555",
+      "Battement normal"
+    ],
+    [
+      "1556",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1557",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1558",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1559",
+      "Battement normal"
+    ],
+    [
+      "1560",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1561",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1562",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1563",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1564",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1565",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1566",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1567",
+      "Battement normal"
+    ],
+    [
+      "1568",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1569",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1570",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1571",
+      "Battement normal"
+    ],
+    [
+      "1572",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1573",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1574",
+      "Battement normal"
+    ],
+    [
+      "1575",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1576",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1577",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1578",
+      "Battement normal"
+    ],
+    [
+      "1579",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1580",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1581",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1582",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1583",
+      "Battement normal"
+    ],
+    [
+      "1584",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1585",
+      "Battement normal"
+    ],
+    [
+      "1586",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1587",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1588",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1589",
+      "Battement normal"
+    ],
+    [
+      "1590",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1591",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1592",
+      "Battement normal"
+    ],
+    [
+      "1593",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1594",
+      "Battement normal"
+    ],
+    [
+      "1595",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1596",
+      "Battement normal"
+    ],
+    [
+      "1597",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1598",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1599",
+      "Battement normal"
+    ],
+    [
+      "1600",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1601",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1602",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1603",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1604",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1605",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1606",
+      "Battement normal"
+    ],
+    [
+      "1607",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1608",
+      "Battement normal"
+    ],
+    [
+      "1609",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1610",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1611",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1612",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1613",
+      "Battement normal"
+    ],
+    [
+      "1614",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1615",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1616",
+      "Battement normal"
+    ],
+    [
+      "1617",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1618",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1619",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1620",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1621",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1622",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1623",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1624",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1625",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1626",
+      "Battement normal"
+    ],
+    [
+      "1627",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1628",
+      "Battement normal"
+    ],
+    [
+      "1629",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1630",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1631",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1632",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1633",
+      "Battement normal"
+    ],
+    [
+      "1634",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1635",
+      "Battement normal"
+    ],
+    [
+      "1636",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1637",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1638",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1639",
+      "Battement normal"
+    ],
+    [
+      "1640",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1641",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1642",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1643",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1644",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1645",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1646",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1647",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1648",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1649",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1650",
+      "Battement normal"
+    ],
+    [
+      "1651",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1652",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1653",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1654",
+      "Battement normal"
+    ],
+    [
+      "1655",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1656",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1657",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1658",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1659",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1660",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1661",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1662",
+      "Battement normal"
+    ],
+    [
+      "1663",
+      "Battement normal"
+    ],
+    [
+      "1664",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1665",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1666",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1667",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1668",
+      "Battement normal"
+    ],
+    [
+      "1669",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1670",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1671",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1672",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1673",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1674",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1675",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1676",
+      "Battement normal"
+    ],
+    [
+      "1677",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1678",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1679",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1680",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1681",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1682",
+      "Battement normal"
+    ],
+    [
+      "1683",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1684",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1685",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1686",
+      "Battement normal"
+    ],
+    [
+      "1687",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1688",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1689",
+      "Battement normal"
+    ],
+    [
+      "1690",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1691",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1692",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1693",
+      "Battement normal"
+    ],
+    [
+      "1694",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1695",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1696",
+      "Battement normal"
+    ],
+    [
+      "1697",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1698",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1699",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1700",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1701",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1702",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1703",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1704",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1705",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1706",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1707",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1708",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1709",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1710",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1711",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1712",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1713",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1714",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1715",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1716",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1717",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1718",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1719",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1720",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1721",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1722",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1723",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1724",
+      "Battement normal"
+    ],
+    [
+      "1725",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1726",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1727",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1728",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1729",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1730",
+      "Battement normal"
+    ],
+    [
+      "1731",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1732",
+      "Battement normal"
+    ],
+    [
+      "1733",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1734",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1735",
+      "Battement normal"
+    ],
+    [
+      "1736",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1737",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1738",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1739",
+      "Battement normal"
+    ],
+    [
+      "1740",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1741",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1742",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1743",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1744",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1745",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1746",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1747",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1748",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1749",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1750",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1751",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1752",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1753",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1754",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1755",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1756",
+      "Battement normal"
+    ],
+    [
+      "1757",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1758",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1759",
+      "Battement normal"
+    ],
+    [
+      "1760",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1761",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1762",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1763",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1764",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1765",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1766",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1767",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1768",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1769",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1770",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1771",
+      "Battement normal"
+    ],
+    [
+      "1772",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1773",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1774",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1775",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1776",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1777",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1778",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1779",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1780",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1781",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1782",
+      "Battement normal"
+    ],
+    [
+      "1783",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1784",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1785",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1786",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1787",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1788",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1789",
+      "Battement normal"
+    ],
+    [
+      "1790",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1791",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1792",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1793",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1794",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1795",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1796",
+      "Battement normal"
+    ],
+    [
+      "1797",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1798",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1799",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1800",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1801",
+      "Battement normal"
+    ],
+    [
+      "1802",
+      "Battement normal"
+    ],
+    [
+      "1803",
+      "Battement normal"
+    ],
+    [
+      "1804",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1805",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1806",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1807",
+      "Battement normal"
+    ],
+    [
+      "1808",
+      "Battement normal"
+    ],
+    [
+      "1809",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1810",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1811",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1812",
+      "Battement normal"
+    ],
+    [
+      "1813",
+      "Battement normal"
+    ],
+    [
+      "1814",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1815",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1816",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1817",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1818",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1819",
+      "Battement normal"
+    ],
+    [
+      "1820",
+      "Battement normal"
+    ],
+    [
+      "1821",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1822",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1823",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1824",
+      "Battement normal"
+    ],
+    [
+      "1825",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1826",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1827",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1828",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1829",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1830",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1831",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1832",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1833",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1834",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1835",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1836",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1837",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1838",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1839",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1840",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1841",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1842",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1843",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1844",
+      "Battement normal"
+    ],
+    [
+      "1845",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1846",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1847",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1848",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1849",
+      "Battement normal"
+    ],
+    [
+      "1850",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1851",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1852",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1853",
+      "Battement normal"
+    ],
+    [
+      "1854",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1855",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1856",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1857",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1858",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1859",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1860",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1861",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1862",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1863",
+      "Battement ectopique supraventriculaire"
+    ],
+    [
+      "1864",
+      "Battement normal"
+    ],
+    [
+      "1865",
+      "Battement de fusion"
+    ]
+  ],
+  "analysis_timestamp": "2025-07-03T10:58:15.975986"
+}
