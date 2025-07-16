@@ -537,7 +537,8 @@ const ReportPage: React.FC = () => {
   //   }
   // };
   
-   const generatePdf = async (action: 'download' | 'print') => {
+  /*3eme version*/
+  const generatePdf = async (action: 'download' | 'print') => {
     const element = pageRef.current as HTMLElement | null;
     if (!element || !(window as any).html2pdf) return;
   
