@@ -617,7 +617,6 @@ const ReportPage: React.FC = () => {
   const handleDownloadPdf = () => generatePdf('download');
   const handlePrintPdf = () => generatePdf('print');
 
-  
   if (loading) {
     return (
       <div className="flex flex-col justify-center items-center min-h-[50vh]">

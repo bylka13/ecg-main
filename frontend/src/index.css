@@ -7,6 +7,12 @@
   .break-inside-avoid          { break-inside: avoid !important; }
   .no-break,
   .page-break-inside-avoid     { page-break-inside: avoid !important; } /* fallback */
+  html,
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
 }
 @layer base {
   html {
