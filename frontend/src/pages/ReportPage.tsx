@@ -22,12 +22,17 @@ import PatientInfo from '../components/common/PatientInfo';
 import { getPatient, getData, readCache, generateLLMAnalysis } from '../services/api';
 import type { PatientOut, ECGAnalysis } from '../types';
 import { useThemeStore } from '../store';
+import { jsPDF } from 'jspdf';
+import html2canvas from 'html2canvas';
 
 declare global {
   interface Window {
+    jsPDF: any;
+    html2canvas: any;
     html2pdf: any;
   }
 }
+
 
 const ReportPage: React.FC = () => {
   const pageRef = useRef<HTMLDivElement>(null);
@@ -276,342 +281,174 @@ const ReportPage: React.FC = () => {
   };
 
   const { isDarkMode } = useThemeStore();
-  // const generatePdf = async (action : 'download' | 'print') => {
-  //   const element = pageRef.current;
-  //   if (!element || !window.html2pdf) return;
+  const generatePdf = async (action : 'download' | 'print') => {
+    const element = pageRef.current;
+    if (!element || !window.html2pdf) return;
 
-  //   const opt = {
-  //     margin: [8, 8, 8, 8], 
-  //     filename: `rapport_ecg_${currentPatient?.nom}_${currentPatient?.prenom}_${new Date().toLocaleDateString('fr-FR').replace(/\//g, '-')}.pdf`,
-  //     image: { type: 'jpeg', quality: 0.98 },
-  //     html2canvas: { 
-  //       scale: 2, 
-  //       useCORS: true,
-  //       logging: false,
-  //       letterRendering: true,
-  //       allowTaint: true,
-  //       backgroundColor: isDarkMode ? '#111827' : '#ffffff', // Fond conditionnel selon le thème
-  //       width: element.offsetWidth, 
-  //       height: element.offsetHeight,
-  //       dpi: 300 
-  //     },  
-  //     jsPDF: { 
-  //       unit: 'mm', 
-  //       format: 'a4', 
-  //       orientation: 'portrait',
-  //     },
-  //   };
-
-  //   const originalStyle = element.style.cssText;
-  //   const originalClassList = element.className;
-    
-  //   try {
-  //     // Appliquer le mode sombre seulement si l'app est en mode sombre
-  //     if (isDarkMode) {
-  //       element.className = originalClassList + ' dark print-mode-dark';
-  //       element.style.cssText += `
-  //         width: 396.5mm !important;
-  //         max-width: none !important;
-  //         font-size: 16px !important;
-  //         line-height: 1.4 !important;
-  //         background-color: #111827 !important;
-  //         color: #ffffff !important;
-  //       `;
-
-  //       // Appliquer les styles sombres aux éléments enfants
-  //       const allElements = element.querySelectorAll('*');
-  //       const originalStyles: { element: Element; originalStyle: string }[] = [];
-        
-  //       allElements.forEach((el) => {
-  //         const htmlEl = el as HTMLElement;
-  //         originalStyles.push({ element: el, originalStyle: htmlEl.style.cssText });
-          
-  //         // Forcer les couleurs sombres
-  //         if (htmlEl.style.backgroundColor && 
-  //             (htmlEl.style.backgroundColor.includes('white') || 
-  //              htmlEl.style.backgroundColor.includes('rgb(255, 255, 255)') ||
-  //              htmlEl.style.backgroundColor.includes('#ffffff') ||
-  //              htmlEl.style.backgroundColor.includes('#fff'))) {
-  //           htmlEl.style.backgroundColor = '#1f2937';
-  //         }
-          
-  //         if (htmlEl.style.color && 
-  //             (htmlEl.style.color.includes('black') || 
-  //              htmlEl.style.color.includes('rgb(0, 0, 0)') ||
-  //              htmlEl.style.color.includes('#000000') ||
-  //              htmlEl.style.color.includes('#000'))) {
-  //           htmlEl.style.color = '#ffffff';
-  //         }
-  //       });
-
-  //       const pdfInstance = window.html2pdf().set(opt).from(element);
-  //       if (action === 'download') {
-  //         await pdfInstance.save();
-  //       } 
-  //       else if (action === 'print') {
-  //         const pdfBlob = await pdfInstance.outputPdf('blob');
-  //         const pdfUrl = URL.createObjectURL(pdfBlob);
-          
-  //         const printWindow = window.open('', '_blank');
-  //         if (printWindow) {
-  //           printWindow.document.write(`
-  //             <html class="dark">
-  //               <head>
-  //                 <title>Impression Rapport ECG</title>
-  //                 <style>
-  //                   body { 
-  //                     margin: 0; 
-  //                     background-color: #111827 !important; 
-  //                     color: #ffffff !important;
-  //                   }
-  //                   embed {
-  //                     background-color: #111827 !important;
-  //                   }
-  //                 </style>
-  //               </head>
-  //               <body>
-  //                 <embed src="${pdfUrl}" type="application/pdf" width="100%" height="100%" />
-  //               </body>
-  //             </html>
-  //           `);
-  //           printWindow.document.close();
-            
-  //           printWindow.onload = () => {
-  //             setTimeout(() => {
-  //               printWindow.print();
-  //             }, 1000);
-  //           };
-  //         }
-  //       }
-
-  //       // Restaurer les styles originaux
-  //       originalStyles.forEach(({ element, originalStyle }) => {
-  //         (element as HTMLElement).style.cssText = originalStyle;
-  //       });
-
-  //     } else {
-  //       // Mode light - garder les styles par défaut
-  //       element.style.cssText += `
-  //         width: 396.5mm !important;
-  //         max-width: none !important;
-  //         font-size: 16px !important;
-  //         line-height: 1.4 !important;
-  //       `;
-
-  //       const pdfInstance = window.html2pdf().set(opt).from(element);
-  //       if (action === 'download') {
-  //         await pdfInstance.save();
-  //       } 
-  //       else if (action === 'print') {
-  //         const pdfBlob = await pdfInstance.outputPdf('blob');
-  //         const pdfUrl = URL.createObjectURL(pdfBlob);
-          
-  //         const printWindow = window.open('', '_blank');
-  //         if (printWindow) {
-  //           printWindow.document.write(`
-  //             <html>
-  //               <head>
-  //                 <title>Impression Rapport ECG</title>
-  //                 <style>
-  //                   body { 
-  //                     margin: 0; 
-  //                     background-color: #ffffff !important; 
-  //                     color: #000000 !important;
-  //                   }
-  //                   embed {
-  //                     background-color: #ffffff !important;
-  //                   }
-  //                 </style>
-  //               </head>
-  //               <body>
-  //                 <embed src="${pdfUrl}" type="application/pdf" width="100%" height="100%" />
-  //               </body>
-  //             </html>
-  //           `);
-  //           printWindow.document.close();
-            
-  //           printWindow.onload = () => {
-  //             setTimeout(() => {
-  //               printWindow.print();
-  //             }, 1000);
-  //           };
-  //         }
-  //       }
-  //     }
-
-  //   } catch (error) {
-  //     console.error('Erreur lors de la génération du PDF:', error);
-  //   } finally {
-  //     element.style.cssText = originalStyle;
-  //     element.className = originalClassList;
-  //   }
-  // };
-  
-  /*2eme version*/ 
-  
-  // const generatePdf = async (action: 'download' | 'print') => {
-  //   const element = pageRef.current as HTMLElement | null;
-  //   if (!element || !(window as any).html2pdf) return;
-  
-  //   /* ------------------------------------------------------------------ */
-  //   /* 1 ▸ CLONAGE HORS ÉCRAN                                             */
-  //   /* ------------------------------------------------------------------ */
-  //   const clone = element.cloneNode(true) as HTMLElement;
-  //   const sandbox = document.createElement('div');
-  //   Object.assign(sandbox.style, {
-  //     position: 'fixed',
-  //     top: '-9999px',
-  //     left: '0',
-  //     zIndex: '-1',
-  //     width: 'auto',
-  //     height: 'auto',
-  //     overflow: 'visible',
-  //   });
-  //   sandbox.appendChild(clone);
-  //   document.body.appendChild(sandbox);
-  
-  //   /* ------------------------------------------------------------------ */
-  //   /* 2 ▸ MESURES & FORMAT PDF                                           */
-  //   /* ------------------------------------------------------------------ */
-  //   const rect = clone.getBoundingClientRect();
-  //   const pxToMm = (px: number) => (px * 25.4) / 96; // 96 dpi → mm
-  //   const pdfSize: [number, number] = [pxToMm(rect.width), pxToMm(rect.height)];
-  //   const isLandscape = rect.width > rect.height;
-  
-  //   /* ------------------------------------------------------------------ */
-  //   /* 3 ▸ STYLES TEMPORAIRES SUR LE CLONE                                */
-  //   /* ------------------------------------------------------------------ */
-  //   clone.style.maxWidth = '100%';
-  //   clone.style.boxSizing = 'border-box';
-  //   clone.style.wordWrap = 'break-word';
-  //   clone.style.backgroundColor = isDarkMode ? '#111827' : '#ffffff';
-  //   clone.style.color = isDarkMode ? '#ffffff' : '#000000';
-  //   if (isDarkMode) clone.classList.add('print-dark');
-  
-  //   /* ------------------------------------------------------------------ */
-  //   /* 4 ▸ OPTIONS html2pdf                                               */
-  //   /* ------------------------------------------------------------------ */
-  //   const opt = {
-  //     margin: [8, 8, 8, 8] as const,
-  //     filename: `rapport_ecg_${currentPatient?.nom ?? ''}_${currentPatient?.prenom ?? ''}_${new Date()
-  //       .toLocaleDateString('fr-FR')
-  //       .replace(/\//g, '-')}.pdf`,
-  //     pagebreak: { mode: ['css', 'legacy'] },
-  //     image: { type: 'jpeg', quality: 0.98 },
-  //     html2canvas: {
-  //       scale: Math.min(window.devicePixelRatio || 1.5, 3), // ×3 max pour perf
-  //       useCORS: true,
-  //       logging: false,
-  //       backgroundColor: isDarkMode ? '#111827' : '#ffffff',
-  //     },
-  //     jsPDF: {
-  //       unit: 'mm',
-  //       format: pdfSize,
-  //       orientation: isLandscape ? 'landscape' : 'portrait',
-  //     },
-  //   } as const;
-  
-  //   /* ------------------------------------------------------------------ */
-  //   /* 5 ▸ GÉNÉRATION & ACTION (download / print)                         */
-  //   /* ------------------------------------------------------------------ */
-  //   try {
-  //     const pdf = (window as any).html2pdf().set(opt).from(clone);
-  
-  //     if (action === 'download') {
-  //       await pdf.save();
-  //     } else {
-  //       const blob = await pdf.outputPdf('blob');
-  //       const url = URL.createObjectURL(blob);
-  //       const printWindow = window.open(url, '_blank');
-  //       if (printWindow) {
-  //         printWindow.onload = () => setTimeout(() => printWindow.print(), 500);
-  //       }
-  //     }
-  //   } catch (err) {
-  //     console.error('generatePdf error', err);
-  //   } finally {
-  //     /* ---------------------------------------------------------------- */
-  //     /* 6 ▸ CLEAN‑UP                                                     */
-  //     /* ---------------------------------------------------------------- */
-  //     document.body.removeChild(sandbox);
-  //   }
-  // };
-  
-  /*3eme version*/
-  const generatePdf = async (action: 'download' | 'print') => {
-    const element = pageRef.current as HTMLElement | null;
-    if (!element || !(window as any).html2pdf) return;
-  
-    /* ------------------------------------------------------------------ */
-    /* 1 ▸ CLONAGE HORS ÉCRAN                                             */
-    /* ------------------------------------------------------------------ */
-    const clone = element.cloneNode(true) as HTMLElement;
-    const sandbox = document.createElement('div');
-    sandbox.style.cssText = 'position:fixed;top:-9999px;left:0;visibility:hidden;z-index:-1;';
-    sandbox.appendChild(clone);
-    document.body.appendChild(sandbox);
-  
-    /* ------------------------------------------------------------------ */
-    /* 2 ▸ MISE AU FORMAT A4 (LARGEUR FIXE)                               */
-    /* ------------------------------------------------------------------ */
-    // 210mm (A4) – (2 × 10mm marges) = 190mm utilisables
-    clone.style.width = '190mm';
-    clone.style.maxWidth = '190mm';
-    clone.style.boxSizing = 'border-box';
-    clone.style.wordWrap = 'break-word';
-    clone.style.background = isDarkMode ? '#111827' : '#ffffff';
-    clone.style.color = isDarkMode ? '#ffffff' : '#000000';
-    if (isDarkMode) clone.classList.add('print-dark');
-  
-    const rect = clone.getBoundingClientRect();
-    const isLandscape = rect.width > rect.height;
-  
-    /* ------------------------------------------------------------------ */
-    /* 3 ▸ OPTIONS html2pdf                                               */
-    /* ------------------------------------------------------------------ */
     const opt = {
-      margin: [10, 10, 10, 10] as const, // 10 mm partout
-      filename: `rapport_ecg_${currentPatient?.nom ?? ''}_${currentPatient?.prenom ?? ''}_${new Date()
-        .toLocaleDateString('fr-FR')
-        .replace(/\//g, '-')}.pdf`,
-      pagebreak: {
-        mode: ['css', 'legacy'],
-        avoid: ['.no-page-break'],
-      },
+      margin: [8, 8, 8, 8], 
+      filename: `rapport_ecg_${currentPatient?.nom}_${currentPatient?.prenom}_${new Date().toLocaleDateString('fr-FR').replace(/\//g, '-')}.pdf`,
       image: { type: 'jpeg', quality: 0.98 },
-      html2canvas: {
-        scale: Math.min(window.devicePixelRatio || 2, 3), // pas de sous‑échelle <1
+      html2canvas: { 
+        scale: 2, 
         useCORS: true,
         logging: false,
-        backgroundColor: isDarkMode ? '#111827' : '#ffffff',
+        letterRendering: true,
+        allowTaint: true,
+        backgroundColor: isDarkMode ? '#111827' : '#ffffff', // Fond conditionnel selon le thème
+        width: element.offsetWidth, 
+        height: element.offsetHeight,
+        dpi: 300 
+      },  
+      jsPDF: { 
+        unit: 'mm', 
+        format: 'a4', 
+        orientation: 'portrait',
       },
-      jsPDF: {
-        unit: 'mm',
-        format: 'a4',
-        orientation: isLandscape ? 'landscape' : 'portrait',
-      },
-    } as const;
-  
-    /* ------------------------------------------------------------------ */
-    /* 4 ▸ GÉNÉRATION & ACTION                                            */
-    /* ------------------------------------------------------------------ */
+    };
+
+    const originalStyle = element.style.cssText;
+    const originalClassList = element.className;
+    
     try {
-      const pdf = (window as any).html2pdf().set(opt).from(clone);
-  
-      if (action === 'download') {
-        await pdf.save();
+      // Appliquer le mode sombre seulement si l'app est en mode sombre
+      if (isDarkMode) {
+        element.className = originalClassList + ' dark print-mode-dark';
+        element.style.cssText += `
+          width: 396.5mm !important;
+          max-width: none !important;
+          font-size: 16px !important;
+          line-height: 1.4 !important;
+          background-color: #111827 !important;
+          color: #ffffff !important;
+        `;
+
+        // Appliquer les styles sombres aux éléments enfants
+        const allElements = element.querySelectorAll('*');
+        const originalStyles: { element: Element; originalStyle: string }[] = [];
+        
+        allElements.forEach((el) => {
+          const htmlEl = el as HTMLElement;
+          originalStyles.push({ element: el, originalStyle: htmlEl.style.cssText });
+          
+          // Forcer les couleurs sombres
+          if (htmlEl.style.backgroundColor && 
+              (htmlEl.style.backgroundColor.includes('white') || 
+               htmlEl.style.backgroundColor.includes('rgb(255, 255, 255)') ||
+               htmlEl.style.backgroundColor.includes('#ffffff') ||
+               htmlEl.style.backgroundColor.includes('#fff'))) {
+            htmlEl.style.backgroundColor = '#1f2937';
+          }
+          
+          if (htmlEl.style.color && 
+              (htmlEl.style.color.includes('black') || 
+               htmlEl.style.color.includes('rgb(0, 0, 0)') ||
+               htmlEl.style.color.includes('#000000') ||
+               htmlEl.style.color.includes('#000'))) {
+            htmlEl.style.color = '#ffffff';
+          }
+        });
+
+        const pdfInstance = window.html2pdf().set(opt).from(element);
+        if (action === 'download') {
+          await pdfInstance.save();
+        } 
+        else if (action === 'print') {
+          const pdfBlob = await pdfInstance.outputPdf('blob');
+          const pdfUrl = URL.createObjectURL(pdfBlob);
+          
+          const printWindow = window.open('', '_blank');
+          if (printWindow) {
+            printWindow.document.write(`
+              <html class="dark">
+                <head>
+                  <title>Impression Rapport ECG</title>
+                  <style>
+                    body { 
+                      margin: 0; 
+                      background-color: #111827 !important; 
+                      color: #ffffff !important;
+                    }
+                    embed {
+                      background-color: #111827 !important;
+                    }
+                  </style>
+                </head>
+                <body>
+                  <embed src="${pdfUrl}" type="application/pdf" width="100%" height="100%" />
+                </body>
+              </html>
+            `);
+            printWindow.document.close();
+            
+            printWindow.onload = () => {
+              setTimeout(() => {
+                printWindow.print();
+              }, 1000);
+            };
+          }
+        }
+
+        // Restaurer les styles originaux
+        originalStyles.forEach(({ element, originalStyle }) => {
+          (element as HTMLElement).style.cssText = originalStyle;
+        });
+
       } else {
-        const blob = await pdf.outputPdf('blob');
-        const url = URL.createObjectURL(blob);
-        const printWindow = window.open(url, '_blank');
-        if (printWindow) {
-          printWindow.onload = () => setTimeout(() => printWindow.print(), 500);
+        // Mode light - garder les styles par défaut
+        element.style.cssText += `
+          width: 396.5mm !important;
+          max-width: none !important;
+          font-size: 16px !important;
+          line-height: 1.4 !important;
+        `;
+
+        const pdfInstance = window.html2pdf().set(opt).from(element);
+        if (action === 'download') {
+          await pdfInstance.save();
+        } 
+        else if (action === 'print') {
+          const pdfBlob = await pdfInstance.outputPdf('blob');
+          const pdfUrl = URL.createObjectURL(pdfBlob);
+          
+          const printWindow = window.open('', '_blank');
+          if (printWindow) {
+            printWindow.document.write(`
+              <html>
+                <head>
+                  <title>Impression Rapport ECG</title>
+                  <style>
+                    body { 
+                      margin: 0; 
+                      background-color: #ffffff !important; 
+                      color: #000000 !important;
+                    }
+                    embed {
+                      background-color: #ffffff !important;
+                    }
+                  </style>
+                </head>
+                <body>
+                  <embed src="${pdfUrl}" type="application/pdf" width="100%" height="100%" />
+                </body>
+              </html>
+            `);
+            printWindow.document.close();
+            
+            printWindow.onload = () => {
+              setTimeout(() => {
+                printWindow.print();
+              }, 1000);
+            };
+          }
         }
       }
-    } catch (err) {
-      console.error('generatePdf error', err);
+
+    } catch (error) {
+      console.error('Erreur lors de la génération du PDF:', error);
     } finally {
-      document.body.removeChild(sandbox);
+      element.style.cssText = originalStyle;
+      element.className = originalClassList;
     }
   };
   const handleDownloadPdf = () => generatePdf('download');
